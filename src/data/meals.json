@@ -1,0 +1,91 @@
+[
+    {
+        "id": "gallo-pinto-eggs",
+        "name": "Gallo Pinto with Eggs",
+        "image": "https://www.panningtheglobe.com/wp-content/uploads/2016/05/gallo-pinto-costa-rica-square.jpg",
+        "countryId": "nicaragua",
+
+        "type": "breakfast",
+        "ingredients": [
+            {"foodId": "rice", "grams": 150},
+            {"foodId": "red-beans", "grams": 120},
+            {"foodId": "eggs", "grams": 100}
+        ]
+    },
+    {
+        "id": "nacatamales",
+        "name": "Nacatamales",
+        "image": "https://static.wixstatic.com/media/bec19b_33c8b9225cb8454ca0c654d6b4c5a141~mv2.webp/v1/fill/w_758,h_442,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Nacatamales%20From%20Nicaragua.webp",
+        "countryId": "nicaragua",
+
+        "type": "lunch",
+        "ingredients": [
+            {"foodId": "masa harina", "grams": 120},
+            {"foodId": "lard", "grams": 12},
+            {"foodId": "pork", "grams": 75},
+            {"foodId": "rice", "grams": 150},
+            {"foodId": "potato slices", "grams": 20},
+            {"foodId": "onion", "grams": 20},
+            {"foodId": "bell-pepper", "grams": 15},
+            {"foodId": "olives", "grams": 3},
+            {"foodId": "capers", "grams": 2},
+            {"foodId": "raisins", "grams": 3},
+            {"foodId": "mint leaves", "grams": 3}
+        ]
+    },
+    {
+        "id": "bean-soup-plantains",
+        "name": "Bean Soup with Plantains",
+        "image": null,
+        "countryId": "nicaragua",
+
+        "type": "lunch",
+        "ingredients": [
+            {"name": "beans", "grams": 120},
+            {"name": "plantains", "grams": null},
+            {"name": "garlic", "grams": null}
+        ]
+    },
+
+
+    {
+        "id": "overnight-oats",
+        "name": "Overnight Oats",
+        "image": null,
+        "countryId": "united-states",
+
+        "type": "breakfast",
+        "ingredients": [
+            {"name": "rolled oats", "grams": null},
+            {"name": "chia seeds", "grams": null},
+            {"name": "milk", "grams": null},
+            {"name": "fruit", "grams": null}
+        ]
+    },
+    {
+        "id": "chicken-bowl",
+        "name": "Chicken Bowl",
+        "image": null,
+        "countryId": "united-states",
+        "type": "lunch",
+        "ingredients": [
+            {"name": "chicken", "grams": null},
+            {"name": "black beans", "grams": null},
+            {"name": "brown rice", "grams": null},
+            {"name": "avocado", "grams": null},
+            {"name": "salsa", "grams": null}
+        ]
+    },
+    {
+        "id": "blacken-salmon",
+        "name": "Blacken Salmon",
+        "image": null,
+        "countryId": "united-states",
+        "type": "lunch",
+        "ingredients": [
+            {"name": "salmon", "grams": null},
+            {"name": "roasted sweet potatoes", "grams": null},
+            {"name": "asparagus", "grams": null}
+        ]
+    }
+]

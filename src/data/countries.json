@@ -1,0 +1,982 @@
+[
+    {
+        "id": "afghanistan",
+        "name": "Afghanistan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Afghanistan.svg"
+    },
+    {
+        "id": "albania",
+        "name": "Albania",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+    },
+    {
+        "id": "algeria",
+        "name": "Algeria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
+    },
+    {
+        "id": "andorra",
+        "name": "Andorra",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+    },
+    {
+        "id": "angola",
+        "name": "Angola",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
+    },
+    {
+        "id": "antigua-and-barbuda",
+        "name": "Antigua and Barbuda",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
+    },
+    {
+        "id": "argentina",
+        "name": "Argentina",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    {
+        "id": "armenia",
+        "name": "Armenia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+    },
+    {
+        "id": "australia",
+        "name": "Australia",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg"
+    },
+    {
+        "id": "austria",
+        "name": "Austria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+    },
+    {
+        "id": "azerbaijan",
+        "name": "Azerbaijan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+    },
+    {
+        "id": "bahamas",
+        "name": "Bahamas",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+    },
+    {
+        "id": "bahrain",
+        "name": "Bahrain",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
+    },
+    {
+        "id": "bangladesh",
+        "name": "Bangladesh",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+    },
+    {
+        "id": "barbados",
+        "name": "Barbados",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg"
+    },
+    {
+        "id": "belarus",
+        "name": "Belarus",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+    },
+    {
+        "id": "belgium",
+        "name": "Belgium",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+    },
+    {
+        "id": "belize",
+        "name": "Belize",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+    },
+    {
+        "id": "benin",
+        "name": "Benin",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
+    },
+    {
+        "id": "bhutan",
+        "name": "Bhutan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+    },
+    {
+        "id": "bolivia",
+        "name": "Bolivia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg"
+    },
+    {
+        "id": "bosnia-and-herzegovina",
+        "name": "Bosnia and Herzegovina",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+    },
+    {
+        "id": "botswana",
+        "name": "Botswana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
+    },
+    {
+        "id": "brazil",
+        "name": "Brazil",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+    },
+    {
+        "id": "brunei",
+        "name": "Brunei",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg"
+    },
+    {
+        "id": "bulgaria",
+        "name": "Bulgaria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+    },
+    {
+        "id": "burkina-faso",
+        "name": "Burkina Faso",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
+    },
+    {
+        "id": "burundi",
+        "name": "Burundi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
+    },
+    {
+        "id": "cabo-verde",
+        "name": "Cabo Verde",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg"
+    },
+    {
+        "id": "cambodia",
+        "name": "Cambodia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg"
+    },
+    {
+        "id": "cameroon",
+        "name": "Cameroon",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
+    },
+    {
+        "id": "canada",
+        "name": "Canada",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg"
+    },
+    {
+        "id": "central-african-republic",
+        "name": "Central African Republic",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
+    },
+    {
+        "id": "chad",
+        "name": "Chad",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
+    },
+    {
+        "id": "chile",
+        "name": "Chile",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+    },
+    {
+        "id": "china",
+        "name": "China",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    {
+        "id": "colombia",
+        "name": "Colombia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    {
+        "id": "comoros",
+        "name": "Comoros",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
+    },
+    {
+        "id": "congo-brazzaville",
+        "name": "Congo - Brazzaville",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
+    },
+    {
+        "id": "congo-kinshasa",
+        "name": "Congo - Kinshasa",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+    },
+    {
+        "id": "costa-rica",
+        "name": "Costa Rica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg"
+    },
+    {
+        "id": "croatia",
+        "name": "Croatia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+    },
+    {
+        "id": "cuba",
+        "name": "Cuba",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
+    },
+    {
+        "id": "cyprus",
+        "name": "Cyprus",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+    },
+    {
+        "id": "czechia",
+        "name": "Czechia",
+        "flag": ""
+    },
+    {
+        "id": "denmark",
+        "name": "Denmark",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Denmark.svg"
+    },
+    {
+        "id": "djibouti",
+        "name": "Djibouti",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg"
+    },
+    {
+        "id": "dominica",
+        "name": "Dominica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg"
+    },
+    {
+        "id": "dominican-republic",
+        "name": "Dominican Republic",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_the_Dominican_Republic.svg"
+    },
+    {
+        "id": "ecuador",
+        "name": "Ecuador",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+    },
+    {
+        "id": "egypt",
+        "name": "Egypt",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+    },
+    {
+        "id": "el-salvador",
+        "name": "El Salvador",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
+    },
+    {
+        "id": "equatorial-guinea",
+        "name": "Equatorial Guinea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
+    },
+    {
+        "id": "eritrea",
+        "name": "Eritrea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
+    },
+    {
+        "id": "estonia",
+        "name": "Estonia",
+        "flag": ""
+    },
+    {
+        "id": "eswatini",
+        "name": "Eswatini",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"
+    },
+    {
+        "id": "ethiopia",
+        "name": "Ethiopia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+    },
+    {
+        "id": "fiji",
+        "name": "Fiji",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
+    },
+    {
+        "id": "finland",
+        "name": "Finland",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+    },
+    {
+        "id": "france",
+        "name": "France",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+    },
+    {
+        "id": "gabon",
+        "name": "Gabon",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
+    },
+    {
+        "id": "gambia",
+        "name": "Gambia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
+    },
+    {
+        "id": "georgia",
+        "name": "Georgia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+    },
+    {
+        "id": "germany",
+        "name": "Germany",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+    },
+    {
+        "id": "ghana",
+        "name": "Ghana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+    },
+    {
+        "id": "greece",
+        "name": "Greece",
+        "flag": ""
+    },
+    {
+        "id": "grenada",
+        "name": "Grenada",
+        "flag": ""
+    },
+    {
+        "id": "guatemala",
+        "name": "Guatemala",
+        "flag": ""
+    },
+    {
+        "id": "guinea",
+        "name": "Guinea",
+        "flag": ""
+    },
+    {
+        "id": "guinea-bissau",
+        "name": "Guinea-Bissau",
+        "flag": ""
+    },
+    {
+        "id": "guyana",
+        "name": "Guyana",
+        "flag": ""
+    },
+    {
+        "id": "haiti",
+        "name": "Haiti",
+        "flag": ""
+    },
+    {
+        "id": "honduras",
+        "name": "Honduras",
+        "flag": ""
+    },
+    {
+        "id": "hungary",
+        "name": "Hungary",
+        "flag": ""
+    },
+    {
+        "id": "iceland",
+        "name": "Iceland",
+        "flag": ""
+    },
+    {
+        "id": "india",
+        "name": "India",
+        "flag": ""
+    },
+    {
+        "id": "indonesia",
+        "name": "Indonesia",
+        "flag": ""
+    },
+    {
+        "id": "iran",
+        "name": "Iran",
+        "flag": ""
+    },
+    {
+        "id": "iraq",
+        "name": "Iraq",
+        "flag": ""
+    },
+    {
+        "id": "ireland",
+        "name": "Ireland",
+        "flag": ""
+    },
+    {
+        "id": "israel",
+        "name": "Israel",
+        "flag": ""
+    },
+    {
+        "id": "italy",
+        "name": "Italy",
+        "flag": ""
+    },
+    {
+        "id": "jamaica",
+        "name": "Jamaica",
+        "flag": ""
+    },
+    {
+        "id": "japan",
+        "name": "Japan",
+        "flag": ""
+    },
+    {
+        "id": "jordan",
+        "name": "Jordan",
+        "flag": ""
+    },
+    {
+        "id": "kazakhstan",
+        "name": "Kazakhstan",
+        "flag": ""
+    },
+    {
+        "id": "kenya",
+        "name": "Kenya",
+        "flag": ""
+    },
+    {
+        "id": "kiribati",
+        "name": "Kiribati",
+        "flag": ""
+    },
+    {
+        "id": "kosovo",
+        "name": "Kosovo",
+        "flag": ""
+    },
+    {
+        "id": "kuwait",
+        "name": "Kuwait",
+        "flag": ""
+    },
+    {
+        "id": "kyrgyzstan",
+        "name": "Kyrgyzstan",
+        "flag": ""
+    },
+    {
+        "id": "laos",
+        "name": "Laos",
+        "flag": ""
+    },
+    {
+        "id": "latvia",
+        "name": "Latvia",
+        "flag": ""
+    },
+    {
+        "id": "lebanon",
+        "name": "Lebanon",
+        "flag": ""
+    },
+    {
+        "id": "lesotho",
+        "name": "Lesotho",
+        "flag": ""
+    },
+    {
+        "id": "liberia",
+        "name": "Liberia",
+        "flag": ""
+    },
+    {
+        "id": "libya",
+        "name": "Libya",
+        "flag": ""
+    },
+    {
+        "id": "liechtenstein",
+        "name": "Liechtenstein",
+        "flag": ""
+    },
+    {
+        "id": "lithuania",
+        "name": "Lithuania",
+        "flag": ""
+    },
+    {
+        "id": "luxembourg",
+        "name": "Luxembourg",
+        "flag": ""
+    },
+    {
+        "id": "madagascar",
+        "name": "Madagascar",
+        "flag": ""
+    },
+    {
+        "id": "malawi",
+        "name": "Malawi",
+        "flag": ""
+    },
+    {
+        "id": "malaysia",
+        "name": "Malaysia",
+        "flag": ""
+    },
+    {
+        "id": "maldives",
+        "name": "Maldives",
+        "flag": ""
+    },
+    {
+        "id": "mali",
+        "name": "Mali",
+        "flag": ""
+    },
+    {
+        "id": "malta",
+        "name": "Malta",
+        "flag": ""
+    },
+    {
+        "id": "marshall-islands",
+        "name": "Marshall Islands",
+        "flag": ""
+    },
+    {
+        "id": "mauritania",
+        "name": "Mauritania",
+        "flag": ""
+    },
+    {
+        "id": "mauritius",
+        "name": "Mauritius",
+        "flag": ""
+    },
+    {
+        "id": "mexico",
+        "name": "Mexico",
+        "flag": ""
+    },
+    {
+        "id": "micronesia",
+        "name": "Micronesia",
+        "flag": ""
+    },
+    {
+        "id": "moldova",
+        "name": "Moldova",
+        "flag": ""
+    },
+    {
+        "id": "monaco",
+        "name": "Monaco",
+        "flag": ""
+    },
+    {
+        "id": "mongolia",
+        "name": "Mongolia",
+        "flag": ""
+    },
+    {
+        "id": "montenegro",
+        "name": "Montenegro",
+        "flag": ""
+    },
+    {
+        "id": "morocco",
+        "name": "Morocco",
+        "flag": ""
+    },
+    {
+        "id": "mozambique",
+        "name": "Mozambique",
+        "flag": ""
+    },
+    {
+        "id": "myanmar",
+        "name": "Myanmar (Burma)",
+        "flag": ""
+    },
+    {
+        "id": "namibia",
+        "name": "Namibia",
+        "flag": ""
+    },
+    {
+        "id": "nauru",
+        "name": "Nauru",
+        "flag": ""
+    },
+    {
+        "id": "nepal",
+        "name": "Nepal",
+        "flag": ""
+    },
+    {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "flag": ""
+    },
+    {
+        "id": "new-zealand",
+        "name": "New Zealand",
+        "flag": ""
+    },
+    {
+        "id": "nicaragua",
+        "name": "Nicaragua",
+        "flag": ""
+    },
+    {
+        "id": "niger",
+        "name": "Niger",
+        "flag": ""
+    },
+    {
+        "id": "nigeria",
+        "name": "Nigeria",
+        "flag": ""
+    },
+    {
+        "id": "north-korea",
+        "name": "North Korea",
+        "flag": ""
+    },
+    {
+        "id": "north-macedonia",
+        "name": "North Macedonia",
+        "flag": ""
+    },
+    {
+        "id": "norway",
+        "name": "Norway",
+        "flag": ""
+    },
+    {
+        "id": "oman",
+        "name": "Oman",
+        "flag": ""
+    },
+    {
+        "id": "pakistan",
+        "name": "Pakistan",
+        "flag": ""
+    },
+    {
+        "id": "palau",
+        "name": "Palau",
+        "flag": ""
+    },
+    {
+        "id": "palestine",
+        "name": "Palestine",
+        "flag": ""
+    },
+    {
+        "id": "panama",
+        "name": "Panama",
+        "flag": ""
+    },
+    {
+        "id": "papua-new-guinea",
+        "name": "Papua New Guinea",
+        "flag": ""
+    },
+    {
+        "id": "paraguay",
+        "name": "Paraguay",
+        "flag": ""
+    },
+    {
+        "id": "peru",
+        "name": "Peru",
+        "flag": ""
+    },
+    {
+        "id": "philippines",
+        "name": "Philippines",
+        "flag": ""
+    },
+    {
+        "id": "poland",
+        "name": "Poland",
+        "flag": ""
+    },
+    {
+        "id": "portugal",
+        "name": "Portugal",
+        "flag": ""
+    },
+    {
+        "id": "qatar",
+        "name": "Qatar",
+        "flag": ""
+    },
+    {
+        "id": "romania",
+        "name": "Romania",
+        "flag": ""
+    },
+    {
+        "id": "russia",
+        "name": "Russia",
+        "flag": ""
+    },
+    {
+        "id": "rwanda",
+        "name": "Rwanda",
+        "flag": ""
+    },
+    {
+        "id": "saint-kitts-and-nevis",
+        "name": "Saint Kitts and Nevis",
+        "flag": ""
+    },
+    {
+        "id": "saint-lucia",
+        "name": "Saint Lucia",
+        "flag": ""
+    },
+    {
+        "id": "saint-vincent-and-the-grenadines",
+        "name": "Saint Vincent and the Grenadines",
+        "flag": ""
+    },
+    {
+        "id": "samoa",
+        "name": "Samoa",
+        "flag": ""
+    },
+    {
+        "id": "san-marino",
+        "name": "San Marino",
+        "flag": ""
+    },
+    {
+        "id": "sao-tome-and-principe",
+        "name": "Sao Tome and Principe",
+        "flag": ""
+    },
+    {
+        "id": "saudi-arabia",
+        "name": "Saudi Arabia",
+        "flag": ""
+    },
+    {
+        "id": "senegal",
+        "name": "Senegal",
+        "flag": ""
+    },
+    {
+        "id": "serbia",
+        "name": "Serbia",
+        "flag": ""
+    },
+    {
+        "id": "seychelles",
+        "name": "Seychelles",
+        "flag": ""
+    },
+    {
+        "id": "sierra-leone",
+        "name": "Sierra Leone",
+        "flag": ""
+    },
+    {
+        "id": "singapore",
+        "name": "Singapore",
+        "flag": ""
+    },
+    {
+        "id": "slovakia",
+        "name": "Slovakia",
+        "flag": ""
+    },
+    {
+        "id": "slovenia",
+        "name": "Slovenia",
+        "flag": ""
+    },
+    {
+        "id": "solomon-islands",
+        "name": "Solomon Islands",
+        "flag": ""
+    },
+    {
+        "id": "somalia",
+        "name": "Somalia",
+        "flag": ""
+    },
+    {
+        "id": "south-africa",
+        "name": "South Africa",
+        "flag": ""
+    },
+    {
+        "id": "south-korea",
+        "name": "South Korea",
+        "flag": ""
+    },
+    {
+        "id": "south-sudan",
+        "name": "South Sudan",
+        "flag": ""
+    },
+    {
+        "id": "spain",
+        "name": "Spain",
+        "flag": ""
+    },
+    {
+        "id": "sri-lanka",
+        "name": "Sri Lanka",
+        "flag": ""
+    },
+    {
+        "id": "sudan",
+        "name": "Sudan",
+        "flag": ""
+    },
+    {
+        "id": "suriname",
+        "name": "Suriname",
+        "flag": ""
+    },
+    {
+        "id": "sweden",
+        "name": "Sweden",
+        "flag": ""
+    },
+    {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "flag": ""
+    },
+    {
+        "id": "syria",
+        "name": "Syria",
+        "flag": ""
+    },
+    {
+        "id": "taiwan",
+        "name": "Taiwan",
+        "flag": ""
+    },
+    {
+        "id": "tajikistan",
+        "name": "Tajikistan",
+        "flag": ""
+    },
+    {
+        "id": "tanzania",
+        "name": "Tanzania",
+        "flag": ""
+    },
+    {
+        "id": "thailand",
+        "name": "Thailand",
+        "flag": ""
+    },
+    {
+        "id": "timor-leste",
+        "name": "Timor-Leste",
+        "flag": ""
+    },
+    {
+        "id": "togo",
+        "name": "Togo",
+        "flag": ""
+    },
+    {
+        "id": "tonga",
+        "name": "Tonga",
+        "flag": ""
+    },
+    {
+        "id": "trinidad-and-tobago",
+        "name": "Trinidad and Tobago",
+        "flag": ""
+    },
+    {
+        "id": "tunisia",
+        "name": "Tunisia",
+        "flag": ""
+    },
+    {
+        "id": "turkey",
+        "name": "Turkey",
+        "flag": ""
+    },
+    {
+        "id": "turkmenistan",
+        "name": "Turkmenistan",
+        "flag": ""
+    },
+    {
+        "id": "tuvalu",
+        "name": "Tuvalu",
+        "flag": ""
+    },
+    {
+        "id": "uganda",
+        "name": "Uganda",
+        "flag": ""
+    },
+    {
+        "id": "ukraine",
+        "name": "Ukraine",
+        "flag": ""
+    },
+    {
+        "id": "united-arab-emirates",
+        "name": "United Arab Emirates",
+        "flag": ""
+    },
+    {
+        "id": "united-kingdom",
+        "name": "United Kingdom",
+        "flag": ""
+    },
+    {
+        "id": "united-states",
+        "name": "United States",
+        "flag": ""
+    },
+    {
+        "id": "uruguay",
+        "name": "Uruguay",
+        "flag": ""
+    },
+    {
+        "id": "uzbekistan",
+        "name": "Uzbekistan",
+        "flag": ""
+    },
+    {
+        "id": "vanuatu",
+        "name": "Vanuatu",
+        "flag": ""
+    },
+    {
+        "id": "vatican-city",
+        "name": "Vatican City",
+        "flag": ""
+    },
+    {
+        "id": "venezuela",
+        "name": "Venezuela",
+        "flag": ""
+    },
+    {
+        "id": "vietnam",
+        "name": "Vietnam",
+        "flag": ""
+    },
+    {
+        "id": "yemen",
+        "name": "Yemen",
+        "flag": ""
+    },
+    {
+        "id": "zambia",
+        "name": "Zambia",
+        "flag": ""
+    },
+    {
+        "id": "zimbabwe",
+        "name": "Zimbabwe",
+        "flag": ""
+    }
+]
