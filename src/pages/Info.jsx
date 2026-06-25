@@ -15,6 +15,9 @@ export default function Info() {
 
     const [mealType, setMealType] = useState("breakfast");
 
+    //search filter
+    const [search, setSearch] = useState("")
+
     // State to hold the selected country 
     const [selectedCountry, setSelectedCountry] = useState(null);
 
@@ -31,10 +34,23 @@ export default function Info() {
         (meal) => meal.countryId === selectedCountry.id) 
         : [];  
 
-    // Filter meals by the selected meal type
-    const filteredMeals = countryMeals.filter(
-        (meal) => meal.type === mealType
-    );
+    // Filter searched meals by the selected meal name and ingredient
+    const filteredMeals = countryMeals.filter((meal) => {
+        const searchLower = search.toLowerCase();
+
+        const matchesName = meal.name
+            .toLowerCase()
+            .includes(searchLower);
+        
+        const matchesIngredient = meal.ingredients.some(
+            (ingredient) =>
+                ingredient.foodId
+                    .toLowerCase()
+                    .includes(searchLower)
+        );
+
+        return meal.type === mealType && (matchesName || matchesIngredient);
+    });
  
     return (
         <>
@@ -60,7 +76,17 @@ export default function Info() {
                         onChange={setMealType}
                     />
 
-                
+                {/* Controls Together */}
+                <div className="controls-bar">
+                    <input
+                        type="text"
+                        placeholder="Search meals or ingredients..."
+                        value={search}
+                        onChange={(e) => setSearch(e.target.value)}
+                    />
+                </div>
+
+                    {/* Render Meal Cards */}
                     {filteredMeals.map((meal) => (
                         <MealCard
                             key={meal.id}
@@ -68,6 +94,7 @@ export default function Info() {
                             onToggle={toggleMeal}
                             isOpen={openMeal.includes(meal.id)}
                         />
+
                     ))}
                 </div>
                 )}

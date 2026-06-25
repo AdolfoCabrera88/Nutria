@@ -41,9 +41,9 @@
 
         "type": "lunch",
         "ingredients": [
-            {"name": "beans", "grams": 120},
-            {"name": "plantains", "grams": null},
-            {"name": "garlic", "grams": null}
+            {"foodId": "beans", "grams": 120},
+            {"foodId": "plantains", "grams": null},
+            {"foodId": "garlic", "grams": null}
         ]
     },
 
@@ -56,10 +56,10 @@
 
         "type": "breakfast",
         "ingredients": [
-            {"name": "rolled oats", "grams": null},
-            {"name": "chia seeds", "grams": null},
-            {"name": "milk", "grams": null},
-            {"name": "fruit", "grams": null}
+            {"foodId": "rolled oats", "grams": null},
+            {"foodId": "chia seeds", "grams": null},
+            {"foodId": "milk", "grams": null},
+            {"foodId": "fruit", "grams": null}
         ]
     },
     {
@@ -69,11 +69,11 @@
         "countryId": "united-states",
         "type": "lunch",
         "ingredients": [
-            {"name": "chicken", "grams": null},
-            {"name": "black beans", "grams": null},
-            {"name": "brown rice", "grams": null},
-            {"name": "avocado", "grams": null},
-            {"name": "salsa", "grams": null}
+            {"foodId": "chicken", "grams": null},
+            {"foodId": "black beans", "grams": null},
+            {"foodId": "brown rice", "grams": null},
+            {"foodId": "avocado", "grams": null},
+            {"foodId": "salsa", "grams": null}
         ]
     },
     {
@@ -83,9 +83,9 @@
         "countryId": "united-states",
         "type": "lunch",
         "ingredients": [
-            {"name": "salmon", "grams": null},
-            {"name": "roasted sweet potatoes", "grams": null},
-            {"name": "asparagus", "grams": null}
+            {"foodId": "salmon", "grams": null},
+            {"foodId": "roasted sweet potatoes", "grams": null},
+            {"foodId": "asparagus", "grams": null}
         ]
     }
 ]

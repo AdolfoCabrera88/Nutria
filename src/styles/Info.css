@@ -48,6 +48,34 @@ h2 {
     gap: 20px;
 }
 
+/* Controls ----------------*/
+.controls-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.controls-bar input,
+.controls-bar select {
+    padding: 8px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: white;
+}
+
+.controls-bar button {
+    background: var(--primary);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 8px 12px;
+}
+
+.controls-bar button:hover {
+    background: var(--secondary);
+}
+
 /* Meal Type Tab ----------------*/
 .meal-type-tab {
     display: flex;
