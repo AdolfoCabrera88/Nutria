@@ -13,7 +13,7 @@ import '../styles/Info.css';
 export default function Info() {
     const [openMeal, setOpenMeal] = useState([]);
 
-    const [mealType, setMealType] = useState("breakfast");
+    const [mealType, setMealType] = useState("All");
 
     //search filter
     const [search, setSearch] = useState("")
@@ -38,10 +38,12 @@ export default function Info() {
     const filteredMeals = countryMeals.filter((meal) => {
         const searchLower = search.toLowerCase();
 
+        //Name Filter
         const matchesName = meal.name
             .toLowerCase()
             .includes(searchLower);
-        
+
+        //Ingredient Filter
         const matchesIngredient = meal.ingredients.some(
             (ingredient) =>
                 ingredient.foodId
@@ -49,9 +51,15 @@ export default function Info() {
                     .includes(searchLower)
         );
 
-        return meal.type === mealType && (matchesName || matchesIngredient);
+        // Meal Type Filter
+        const MatchesMealType = 
+        mealType === "All" || meal.type.toLowerCase() === mealType.toLowerCase();
+
+        return MatchesMealType && (matchesName || matchesIngredient);
     });
- 
+
+    let sortedMeals = [...filteredMeals];
+
     return (
         <>
             <div className="info-page">
@@ -96,6 +104,11 @@ export default function Info() {
                         />
 
                     ))}
+
+                    {sortedMeals.length === 0 && (
+                        <p className="empty">No meals Found. Try a another search or filter.</p>
+                    )}
+
                 </div>
                 )}
             </div>
