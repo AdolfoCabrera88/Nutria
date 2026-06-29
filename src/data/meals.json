@@ -7,9 +7,9 @@
 
         "type": "breakfast",
         "ingredients": [
-            {"foodId": "rice", "grams": 150},
+            {"foodId": "white-rice", "grams": 150},
             {"foodId": "red-beans", "grams": 120},
-            {"foodId": "eggs", "grams": 100}
+            {"foodId": "egg", "grams": 100}
         ]
     },
     {
@@ -20,17 +20,17 @@
 
         "type": "lunch",
         "ingredients": [
-            {"foodId": "masa harina", "grams": 120},
+            {"foodId": "masa-harina", "grams": 120},
             {"foodId": "lard", "grams": 12},
             {"foodId": "pork", "grams": 75},
-            {"foodId": "rice", "grams": 150},
-            {"foodId": "potato slices", "grams": 20},
+            {"foodId": "white-rice", "grams": 150},
+            {"foodId": "potato-slices", "grams": 20},
             {"foodId": "onion", "grams": 20},
             {"foodId": "bell-pepper", "grams": 15},
             {"foodId": "olives", "grams": 3},
             {"foodId": "capers", "grams": 2},
             {"foodId": "raisins", "grams": 3},
-            {"foodId": "mint leaves", "grams": 3}
+            {"foodId": "mint-leaves", "grams": 3}
         ]
     },
     {
@@ -41,7 +41,7 @@
 
         "type": "lunch",
         "ingredients": [
-            {"foodId": "beans", "grams": 120},
+            {"foodId": "red-beans", "grams": 120},
             {"foodId": "plantains", "grams": null},
             {"foodId": "garlic", "grams": null}
         ]

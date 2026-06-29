@@ -6,8 +6,8 @@
         "per100g": {"calories": 78, "protein": 6, "carbs": 0.6, "fat": 5, "fiber": 0}
     },
     {
-        "id": "rice",
-        "name": "Rice",
+        "id": "white-rice",
+        "name": "White Rice",
         "per100g": {"calories": 242, "protein": 4.4, "carbs": 53.4, "fat": 0.4, "fiber": 0.6}
     },
     {
@@ -21,8 +21,58 @@
         "per100g": {"calories": 208, "protein": 20, "carbs": 0, "fat": 13, "fiber": 0}
     },
     {
-        "id": "beans",
-        "name": "Beans",
-        "per100g": {"calories": 109, "protein": 7, "carbs": 53.4, "fat": 0.4, "fiber": 8.3}
+        "id": "red-beans",
+        "name": "Red Beans",
+        "per100g": {"calories": 337, "protein": 24, "carbs": 60, "fat": 0.8, "fiber": 8.3}
+    },
+    {
+        "id": "masa-harina",
+        "name": "Masa Harina",
+        "per100g": {"calories": 363, "protein": 9, "carbs": 82, "fat": 9, "fiber": 7.5}
+    },
+    {
+        "id": "lard",
+        "name": "Lard",
+        "per100g": {"calories": 902, "protein": 0.07, "carbs": 0, "fat": 100, "fiber": 0}
+    },
+    {
+        "id": "pork",
+        "name": "Pork",
+        "per100g": {"calories": 134, "protein": 27, "carbs": 0, "fat": 10, "fiber": 0}
+    },
+    {
+        "id": "potato-slices",
+        "name": "Potato Slices",
+        "per100g": {"calories": 77, "protein": 2, "carbs": 17, "fat": 0.1, "fiber": 2.2}
+    },
+    {
+        "id": "onion",
+        "name": "Onion",
+        "per100g": {"calories": 40, "protein": 1.1, "carbs": 9.3, "fat": 0.1, "fiber": 1.9}
+    },
+    {
+        "id": "bell-pepper",
+        "name": "Bell Pepper",
+        "per100g": {"calories": 31, "protein": 1, "carbs": 6, "fat": 0.3, "fiber": 2.1}
+    },
+    {
+        "id": "olives",
+        "name": "Olives",
+        "per100g": {"calories": 115, "protein": 1.4, "carbs": 6.6, "fat": 12.7, "fiber": 3.2}
+    },
+    {
+        "id": "capers",
+        "name": "Capers",
+        "per100g": {"calories": 23, "protein": 2.4, "carbs": 2, "fat": 0.9, "fiber": 3.2}
+    },
+    {
+        "id": "raisins",
+        "name": "Raisins",
+        "per100g": {"calories": 299, "protein": 3.1, "carbs": 79, "fat": 1, "fiber": 3.7}
+    },
+    {
+        "id": "mint-leaves",
+        "name": "Mint Leaves",
+        "per100g": {"calories": 44, "protein": 3.3, "carbs": 8.4, "fat": 0.8, "fiber": 3.2}
     }
 ]
