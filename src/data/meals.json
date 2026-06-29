@@ -13,13 +13,10 @@
         "ingredients": [
             {"foodId": "white-rice", "grams": 150},
             {"foodId": "red-beans", "grams": 120},
-<<<<<<< HEAD
-=======
             {"foodId": "eggs", "grams": 100}
         ],
-        "intsructions": [],
+        "instructions": [],
         "tags": []
->>>>>>> fbf4c0599272b23c6e183f41ef9468c281423e65
     },
     {
         "id": "nacatamales",
