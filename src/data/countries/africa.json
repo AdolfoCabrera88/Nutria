@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "denonym": "Algerian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+    "heroImage": "",
+    "capital": "Algiers",
+    "region": "North Africa",
+    "population": 46200000,
+    "language": "Arabic",
+    "summary": {
+      "description": "Algerian cuisine combines Berber, Arab, Ottoman, and Mediterranean influences with an emphasis on grains, vegetables, legumes, and slow-cooked stews.",
+      "dietHighlights": [
+        "Whole grains",
+        "Legumes",
+        "Olive oil",
+        "Mediterranean vegetables"
+      ]
+    },
+    "signatureFoods": [
+      "Couscous",
+      "Chakhchoukha",
+      "Rechta"
+    ],
+    "cuisineTags": [
+      "North African",
+      "Mediterranean"
+    ]
+  },
+  {
+    "id": "angola",
+    "name": "Angola",
+    "denonym": "Angolan",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+    "heroImage": "",
+    "capital": "Luanda",
+    "region": "Central Africa",
+    "population": 38000000,
+    "language": "Portuguese",
+    "summary": {
+      "description": "Angolan cuisine is centered around cassava, beans, seafood, tropical fruits, and Portuguese culinary traditions.",
+      "dietHighlights": [
+        "Cassava-based dishes",
+        "Fresh seafood",
+        "Beans",
+        "Tropical fruits"
+      ]
+    },
+    "signatureFoods": [
+      "Muamba de Galinha",
+      "Calulu",
+      "Funge"
+    ],
+    "cuisineTags": [
+      "Central African",
+      "Portuguese Influence"
+    ]
+  },
+  {
+    "id": "benin",
+    "name": "Benin",
+    "denonym": "Beninese",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+    "heroImage": "",
+    "capital": "Porto-Novo",
+    "region": "West Africa",
+    "population": 14100000,
+    "language": "French",
+    "summary": {
+      "description": "Beninese cuisine features maize, yams, beans, vegetables, palm oil, and fresh fish from coastal regions.",
+      "dietHighlights": [
+        "Root vegetables",
+        "Beans",
+        "Fresh fish",
+        "Palm oil"
+      ]
+    },
+    "signatureFoods": [
+      "Amiwo",
+      "Akassa",
+      "Pâte"
+    ],
+    "cuisineTags": [
+      "West African"
+    ]
+  },
+  {
+    "id": "botswana",
+    "name": "Botswana",
+    "denonym": "Botswanan",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+    "heroImage": "",
+    "capital": "Gaborone",
+    "region": "Southern Africa",
+    "population": 2700000,
+    "language": "English, Setswana",
+    "summary": {
+      "description": "Botswanan cuisine traditionally emphasizes sorghum, maize, beef, and locally grown vegetables.",
+      "dietHighlights": [
+        "Whole grains",
+        "Lean beef",
+        "Seasonal vegetables",
+        "Traditional porridges"
+      ]
+    },
+    "signatureFoods": [
+      "Seswaa",
+      "Bogobe",
+      "Vetkoek"
+    ],
+    "cuisineTags": [
+      "Southern African"
+    ]
+  },
+  {
+    "id": "burkina-faso",
+    "name": "Burkina Faso",
+    "denonym": "Burkinabe",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "heroImage": "",
+    "capital": "Ouagadougou",
+    "region": "West Africa",
+    "population": 24500000,
+    "language": "French",
+    "summary": {
+      "description": "Cuisine in Burkina Faso relies heavily on millet, sorghum, rice, peanuts, leafy vegetables, and locally raised poultry.",
+      "dietHighlights": [
+        "Millet",
+        "Sorghum",
+        "Leafy greens",
+        "Legumes"
+      ]
+    },
+    "signatureFoods": [
+      "Riz Gras",
+      "To",
+      "Poulet Bicyclette"
+    ],
+    "cuisineTags": [
+      "West African"
+    ]
+  },
+  {
+    "id": "burundi",
+    "name": "Burundi",
+    "denonym": "Burundian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+    "heroImage": "",
+    "capital": "Gitega",
+    "region": "East Africa",
+    "population": 14000000,
+    "language": "Kirundi, French, English",
+    "summary": {
+      "description": "Burundian cuisine is largely plant-based, featuring beans, bananas, cassava, sweet potatoes, and locally grown vegetables.",
+      "dietHighlights": [
+        "Beans",
+        "Plant-based meals",
+        "Fresh vegetables",
+        "Root crops"
+      ]
+    },
+    "signatureFoods": [
+      "Ugali",
+      "Ibiharage",
+      "Mukeke"
+    ],
+    "cuisineTags": [
+      "East African"
+    ]
+  },
+  {
+  "id": "cabo-verde",
+  "name": "Cabo Verde",
+  "demonym": "Cape Verdean",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+  "heroImage": "",
+  "capital": "Praia",
+  "region": "West Africa",
+  "population": 598000,
+  "language": "Portuguese",
+  "summary": {
+    "description": "Cape Verdean cuisine reflects its Atlantic island geography with seafood, corn, beans, and Portuguese influences.",
+    "dietHighlights": [
+      "Seafood",
+      "Legumes",
+      "Whole grains",
+      "Fresh fish"
+    ]
+    },
+    "signatureFoods": [
+        "Cachupa",
+        "Pastel",
+        "Canja"
+    ],
+    "cuisineTags": [
+        "West African",
+        "Island Cuisine",
+        "Portuguese Influence"
+    ]
+  },
+  {
+    "id": "cameroon",
+    "name": "Cameroon",
+    "demonym": "Cameroonian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+    "heroImage": "",
+    "capital": "Yaoundé",
+    "region": "Central Africa",
+    "population": 29100000,
+    "language": "French, English",
+    "summary": {
+        "description": "Cameroonian cuisine is one of Africa's most diverse, featuring vegetables, cassava, plantains, peanuts, seafood, and grilled meats.",
+        "dietHighlights": [
+        "Leafy vegetables",
+        "Plantains",
+        "Cassava",
+        "Peanut-based dishes"
+        ]
+    },
+    "signatureFoods": [
+        "Ndolé",
+        "Eru",
+        "Koki"
+    ],
+    "cuisineTags": [
+        "Central African"
+    ]
+  },
+  {
+    "id": "central-african-republic",
+    "name": "Central African Republic",
+    "demonym": "Central African",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+    "heroImage": "",
+    "capital": "Bangui",
+    "region": "Central Africa",
+    "population": 5600000,
+    "language": "French, Sango",
+    "summary": {
+        "description": "Traditional cuisine relies on cassava, millet, peanuts, vegetables, freshwater fish, and locally grown fruits.",
+        "dietHighlights": [
+        "Cassava",
+        "Millet",
+        "Freshwater fish",
+        "Peanuts"
+        ]
+    },
+    "signatureFoods": [
+        "Kanda",
+        "Cassava Fufu",
+        "Maboké"
+    ],
+    "cuisineTags": [
+        "Central African"
+    ]
+  },
+  {
+    "id": "chad",
+    "name": "Chad",
+    "demonym": "Chadian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+    "heroImage": "",
+    "capital": "N'Djamena",
+    "region": "Central Africa",
+    "population": 21200000,
+    "language": "French, Arabic",
+    "summary": {
+        "description": "Chadian cuisine combines North African and Central African traditions with millet, rice, fish, meats, and vegetables.",
+        "dietHighlights": [
+        "Millet",
+        "Rice",
+        "Fish",
+        "Goat meat"
+        ]
+    },
+    "signatureFoods": [
+        "Boule",
+        "Jarret de Boeuf",
+        "Daraba"
+    ],
+    "cuisineTags": [
+        "Central African",
+        "Sahel"
+    ]
+  },
+  {
+    "id": "comoros",
+    "name": "Comoros",
+    "demonym": "Comorian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+    "heroImage": "",
+    "capital": "Moroni",
+    "region": "East Africa",
+    "population": 890000,
+    "language": "Comorian, French, Arabic",
+    "summary": {
+        "description": "Comorian cuisine blends African, Arab, Indian, and French influences with seafood, coconut, rice, and spices.",
+        "dietHighlights": [
+        "Seafood",
+        "Coconut",
+        "Rice",
+        "Aromatic spices"
+        ]
+    },
+    "signatureFoods": [
+        "Langouste à la Vanille",
+        "Mkatra Foutra",
+        "Pilao"
+    ],
+    "cuisineTags": [
+        "East African",
+        "Island Cuisine"
+    ]
+  },
+  {
+    "id": "democratic-republic-of-the-congo",
+    "name": "Democratic Republic of the Congo",
+    "demonym": "Congolese",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+    "heroImage": "",
+    "capital": "Kinshasa",
+    "region": "Central Africa",
+    "population": 112800000,
+    "language": "French",
+    "summary": {
+        "description": "Congolese cuisine emphasizes cassava, maize, fish, vegetables, peanuts, and tropical fruits.",
+        "dietHighlights": [
+        "Cassava",
+        "Freshwater fish",
+        "Leafy greens",
+        "Peanuts"
+        ]
+    },
+    "signatureFoods": [
+        "Moambe Chicken",
+        "Fufu",
+        "Pondu"
+    ],
+    "cuisineTags": [
+        "Central African"
+    ]
+  },
+  {
+    "id": "djibouti",
+    "name": "Djibouti",
+    "demonym": "Djiboutian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+    "heroImage": "",
+    "capital": "Djibouti",
+    "region": "East Africa",
+    "population": 1200000,
+    "language": "French, Arabic",
+    "summary": {
+        "description": "Djiboutian cuisine combines Somali, Ethiopian, Yemeni, and French influences with rice, seafood, camel, and aromatic spices.",
+        "dietHighlights": [
+        "Rice",
+        "Seafood",
+        "Spiced meats",
+        "Flatbreads"
+        ]
+    },
+    "signatureFoods": [
+        "Skoudehkaris",
+        "Lahoh",
+        "Fah-fah"
+    ],
+    "cuisineTags": [
+        "East African",
+        "Horn of Africa",
+        "Middle Eastern Influence"
+    ]
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "demonym": "Egyptian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+    "heroImage": "",
+    "capital": "Cairo",
+    "region": "North Africa",
+    "population": 107000000,
+    "language": "Arabic",
+    "summary": {
+        "description": "Egyptian cuisine is based on legumes, vegetables, grains, and herbs, with thousands of years of culinary history.",
+        "dietHighlights": [
+        "Legumes",
+        "Whole grains",
+        "Fresh vegetables",
+        "Herbs"
+        ]
+    },
+    "signatureFoods": [
+        "Koshari",
+        "Ful Medames",
+        "Molokhia"
+    ],
+    "cuisineTags": [
+        "North African",
+        "Mediterranean",
+        "Middle Eastern"
+    ]
+  },
+  {
+    "id": "equatorial-guinea",
+    "name": "Equatorial Guinea",
+    "demonym": "Equatorial Guinean",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+    "heroImage": "",
+    "capital": "Malabo",
+    "region": "Central Africa",
+    "population": 1800000,
+    "language": "Spanish, French, Portuguese",
+    "summary": {
+        "description": "Equatorial Guinean cuisine features seafood, cassava, plantains, tropical fruits, and Central African cooking traditions.",
+        "dietHighlights": [
+        "Seafood",
+        "Cassava",
+        "Plantains",
+        "Tropical fruits"
+        ]
+    },
+    "signatureFoods": [
+        "Succotash",
+        "Pepper Soup",
+        "Cassava Bread"
+    ],
+    "cuisineTags": [
+        "Central African"
+    ]
+  },
+  {
+    "id": "eritrea",
+    "name": "Eritrea",
+    "demonym": "Eritrean",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+    "heroImage": "",
+    "capital": "Asmara",
+    "region": "East Africa",
+    "population": 3600000,
+    "language": "Tigrinya, Arabic, English",
+    "summary": {
+        "description": "Eritrean cuisine shares many traditions with Ethiopian cuisine, emphasizing injera, legumes, vegetables, and flavorful stews.",
+        "dietHighlights": [
+        "Fermented flatbread",
+        "Legumes",
+        "Vegetables",
+        "Traditional spice blends"
+        ]
+    },
+    "signatureFoods": [
+        "Injera",
+        "Zigni",
+        "Shiro"
+    ],
+    "cuisineTags": [
+        "East African",
+        "Horn of Africa"
+    ]
+  },
+  {
+    "id": "eswatini",
+    "name": "Eswatini",
+    "demonym": "Swazi",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+    "heroImage": "",
+    "capital": "Mbabane",
+    "region": "Southern Africa",
+    "population": 1200000,
+    "language": "Swazi, English",
+    "summary": {
+        "description": "Eswatini cuisine focuses on maize, sorghum, vegetables, beef, and locally produced dairy products.",
+        "dietHighlights": [
+        "Whole grains",
+        "Leafy vegetables",
+        "Beef",
+        "Traditional porridges"
+        ]
+    },
+    "signatureFoods": [
+        "Sishwala",
+        "Incwancwa",
+        "Braai"
+    ],
+    "cuisineTags": [
+        "Southern African"
+    ]
+  },
+  {
+    "id": "ethiopia",
+    "name": "Ethiopia",
+    "demonym": "Ethiopian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+    "heroImage": "",
+    "capital": "Addis Ababa",
+    "region": "East Africa",
+    "population": 135000000,
+    "language": "Amharic",
+    "summary": {
+        "description": "Ethiopian cuisine is famous for communal dining, injera, lentils, vegetables, and richly spiced stews served without utensils.",
+        "dietHighlights": [
+        "Fermented foods",
+        "Legume-rich meals",
+        "High-fiber grains",
+        "Communal dining"
+        ]
+    },
+    "signatureFoods": [
+        "Injera",
+        "Doro Wat",
+        "Shiro"
+    ],
+    "cuisineTags": [
+        "East African",
+        "Horn of Africa"
+    ]
+  },
+  {
+    "id": "gabon",
+    "name": "Gabon",
+    "demonym": "Gabonese",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+    "heroImage": "",
+    "capital": "Libreville",
+    "region": "Central Africa",
+    "population": 2600000,
+    "language": "French",
+    "summary": {
+        "description": "Gabonese cuisine combines seafood, game meats, cassava, plantains, and tropical fruits from the country's forests and coastline.",
+        "dietHighlights": [
+        "Seafood",
+        "Plantains",
+        "Cassava",
+        "Fresh fruits"
+        ]
+    },
+    "signatureFoods": [
+        "Nyembwe Chicken",
+        "Poisson Salé",
+        "Atanga"
+    ],
+    "cuisineTags": [
+        "Central African"
+    ]
+  },
+  {
+    "id": "gambia",
+    "name": "Gambia",
+    "demonym": "Gambian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+    "heroImage": "",
+    "capital": "Banjul",
+    "region": "West Africa",
+    "population": 2900000,
+    "language": "English",
+    "summary": {
+        "description": "Gambian cuisine centers on rice, peanuts, fish, vegetables, and flavorful one-pot dishes.",
+        "dietHighlights": [
+        "Rice",
+        "Peanuts",
+        "Fresh fish",
+        "Leafy vegetables"
+        ]
+    },
+    "signatureFoods": [
+        "Domoda",
+        "Benachin",
+        "Yassa"
+    ],
+    "cuisineTags": [
+        "West African"
+    ]
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "demonym": "Ghanaian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+    "heroImage": "",
+    "capital": "Accra",
+    "region": "West Africa",
+    "population": 35000000,
+    "language": "English",
+    "summary": {
+        "description": "Ghanaian cuisine features cassava, yams, plantains, rice, seafood, and richly flavored soups and stews.",
+        "dietHighlights": [
+        "Root vegetables",
+        "Seafood",
+        "Legumes",
+        "Fresh peppers"
+        ]
+    },
+    "signatureFoods": [
+        "Jollof Rice",
+        "Fufu",
+        "Waakye"
+    ],
+    "cuisineTags": [
+        "West African"
+    ]
+  },
+  {
+  "id": "guinea",
+  "name": "Guinea",
+  "demonym": "Guinean",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+  "heroImage": "",
+  "capital": "Conakry",
+  "region": "West Africa",
+  "population": 14700000,
+  "language": "French",
+  "summary": {
+    "description": "Guinean cuisine emphasizes rice, cassava, peanuts, tropical fruits, and hearty stews.",
+    "dietHighlights": [
+      "Rice",
+      "Cassava",
+      "Peanuts",
+      "Fresh vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Poulet Yassa",
+    "Jollof Rice",
+    "Fouti"
+  ],
+  "cuisineTags": [
+    "West African"
+  ]
+},
+{
+  "id": "guinea-bissau",
+  "name": "Guinea-Bissau",
+  "demonym": "Bissau-Guinean",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+  "heroImage": "",
+  "capital": "Bissau",
+  "region": "West Africa",
+  "population": 2200000,
+  "language": "Portuguese",
+  "summary": {
+    "description": "Cuisine is based on rice, seafood, peanuts, palm oil, and tropical fruits.",
+    "dietHighlights": [
+      "Rice",
+      "Seafood",
+      "Peanuts",
+      "Palm oil"
+    ]
+  },
+  "signatureFoods": [
+    "Jollof Rice",
+    "Caldo de Mancarra",
+    "Grilled Fish"
+  ],
+  "cuisineTags": [
+    "West African",
+    "Portuguese Influence"
+  ]
+},
+{
+  "id": "ivory-coast",
+  "name": "Ivory Coast",
+  "demonym": "Ivorian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Côte_d%27Ivoire.svg",
+  "heroImage": "",
+  "capital": "Yamoussoukro",
+  "region": "West Africa",
+  "population": 32000000,
+  "language": "French",
+  "summary": {
+    "description": "Ivorian cuisine features cassava, plantains, seafood, peanuts, and spicy vegetable stews.",
+    "dietHighlights": [
+      "Cassava",
+      "Plantains",
+      "Seafood",
+      "Vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Attiéké",
+    "Kedjenou",
+    "Alloco"
+  ],
+  "cuisineTags": [
+    "West African"
+  ]
+},
+{
+  "id": "kenya",
+  "name": "Kenya",
+  "demonym": "Kenyan",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+  "heroImage": "",
+  "capital": "Nairobi",
+  "region": "East Africa",
+  "population": 56000000,
+  "language": "English, Swahili",
+  "summary": {
+    "description": "Kenyan cuisine combines maize, beans, vegetables, grilled meats, and coastal seafood traditions.",
+    "dietHighlights": [
+      "Whole grains",
+      "Beans",
+      "Leafy greens",
+      "Lean meats"
+    ]
+  },
+  "signatureFoods": [
+    "Ugali",
+    "Nyama Choma",
+    "Sukuma Wiki"
+  ],
+  "cuisineTags": [
+    "East African"
+  ]
+},
+{
+  "id": "lesotho",
+  "name": "Lesotho",
+  "demonym": "Basotho",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+  "heroImage": "",
+  "capital": "Maseru",
+  "region": "Southern Africa",
+  "population": 2400000,
+  "language": "Sesotho, English",
+  "summary": {
+    "description": "Lesotho cuisine emphasizes maize, sorghum, vegetables, beans, and locally raised livestock.",
+    "dietHighlights": [
+      "Whole grains",
+      "Beans",
+      "Leafy vegetables",
+      "Beef"
+    ]
+  },
+  "signatureFoods": [
+    "Papa",
+    "Motoho",
+    "Oxtail Stew"
+  ],
+  "cuisineTags": [
+    "Southern African"
+  ]
+},
+{
+  "id": "liberia",
+  "name": "Liberia",
+  "demonym": "Liberian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+  "heroImage": "",
+  "capital": "Monrovia",
+  "region": "West Africa",
+  "population": 5700000,
+  "language": "English",
+  "summary": {
+    "description": "Liberian cuisine uses rice, cassava, leafy vegetables, fish, and palm oil in many traditional meals.",
+    "dietHighlights": [
+      "Rice",
+      "Cassava",
+      "Fish",
+      "Leafy greens"
+    ]
+  },
+  "signatureFoods": [
+    "Palm Butter",
+    "Jollof Rice",
+    "Cassava Leaf Stew"
+  ],
+  "cuisineTags": [
+    "West African"
+  ]
+},
+{
+  "id": "libya",
+  "name": "Libya",
+  "demonym": "Libyan",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+  "heroImage": "",
+  "capital": "Tripoli",
+  "region": "North Africa",
+  "population": 7300000,
+  "language": "Arabic",
+  "summary": {
+    "description": "Libyan cuisine blends Mediterranean and North African traditions with couscous, lamb, seafood, and olive oil.",
+    "dietHighlights": [
+      "Olive oil",
+      "Whole grains",
+      "Seafood",
+      "Legumes"
+    ]
+  },
+  "signatureFoods": [
+    "Bazin",
+    "Couscous",
+    "Shorba"
+  ],
+  "cuisineTags": [
+    "North African",
+    "Mediterranean"
+  ]
+},
+{
+  "id": "madagascar",
+  "name": "Madagascar",
+  "demonym": "Malagasy",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+  "heroImage": "",
+  "capital": "Antananarivo",
+  "region": "East Africa",
+  "population": 32000000,
+  "language": "Malagasy, French",
+  "summary": {
+    "description": "Malagasy cuisine centers on rice, seafood, zebu beef, vanilla, and tropical fruits.",
+    "dietHighlights": [
+      "Rice",
+      "Seafood",
+      "Fresh vegetables",
+      "Tropical fruits"
+    ]
+  },
+  "signatureFoods": [
+    "Romazava",
+    "Ravitoto",
+    "Mofo Gasy"
+  ],
+  "cuisineTags": [
+    "East African",
+    "Island Cuisine"
+  ]
+},
+{
+  "id": "malawi",
+  "name": "Malawi",
+  "demonym": "Malawian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+  "heroImage": "",
+  "capital": "Lilongwe",
+  "region": "East Africa",
+  "population": 22000000,
+  "language": "English, Chichewa",
+  "summary": {
+    "description": "Malawian cuisine relies on maize, beans, fish from Lake Malawi, and seasonal vegetables.",
+    "dietHighlights": [
+      "Whole grains",
+      "Freshwater fish",
+      "Beans",
+      "Leafy greens"
+    ]
+  },
+  "signatureFoods": [
+    "Nsima",
+    "Chambo",
+    "Nthochi"
+  ],
+  "cuisineTags": [
+    "East African"
+  ]
+},
+{
+  "id": "mali",
+  "name": "Mali",
+  "demonym": "Malian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+  "heroImage": "",
+  "capital": "Bamako",
+  "region": "West Africa",
+  "population": 25000000,
+  "language": "French",
+  "summary": {
+    "description": "Malian cuisine features millet, rice, peanuts, fish, vegetables, and slow-cooked stews.",
+    "dietHighlights": [
+      "Millet",
+      "Rice",
+      "Peanuts",
+      "Fish"
+    ]
+  },
+  "signatureFoods": [
+    "Tiguadege Na",
+    "Jollof Rice",
+    "Fufu"
+  ],
+  "cuisineTags": [
+    "West African",
+    "Sahel"
+  ]
+},
+{
+  "id": "mauritania",
+  "name": "Mauritania",
+  "demonym": "Mauritanian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+  "heroImage": "",
+  "capital": "Nouakchott",
+  "region": "West Africa",
+  "population": 5100000,
+  "language": "Arabic",
+  "summary": {
+    "description": "Mauritanian cuisine reflects desert traditions with camel, lamb, couscous, dates, and mint tea.",
+    "dietHighlights": [
+      "Whole grains",
+      "Camel",
+      "Lamb",
+      "Dates"
+    ]
+  },
+  "signatureFoods": [
+    "Thieboudienne",
+    "Mechoui",
+    "Mint Tea"
+  ],
+  "cuisineTags": [
+    "West African",
+    "North African",
+    "Sahel"
+  ]
+},
+{
+  "id": "mauritius",
+  "name": "Mauritius",
+  "demonym": "Mauritian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+  "heroImage": "",
+  "capital": "Port Louis",
+  "region": "East Africa",
+  "population": 1300000,
+  "language": "English, French",
+  "summary": {
+    "description": "Mauritian cuisine blends Indian, African, Chinese, and French influences with seafood, curries, and tropical produce.",
+    "dietHighlights": [
+      "Seafood",
+      "Curries",
+      "Vegetables",
+      "Fresh herbs"
+    ]
+  },
+  "signatureFoods": [
+    "Dholl Puri",
+    "Rougaille",
+    "Mine Frite"
+  ],
+  "cuisineTags": [
+    "Island Cuisine",
+    "Indian Influence",
+    "East African"
+  ]
+},
+{
+  "id": "morocco",
+  "name": "Morocco",
+  "demonym": "Moroccan",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+  "heroImage": "",
+  "capital": "Rabat",
+  "region": "North Africa",
+  "population": 38000000,
+  "language": "Arabic, Berber",
+  "summary": {
+    "description": "Moroccan cuisine is famous for tagines, couscous, aromatic spices, preserved lemons, and fresh herbs.",
+    "dietHighlights": [
+      "Olive oil",
+      "Legumes",
+      "Whole grains",
+      "Fresh herbs"
+    ]
+  },
+  "signatureFoods": [
+    "Tagine",
+    "Couscous",
+    "Pastilla"
+  ],
+  "cuisineTags": [
+    "North African",
+    "Mediterranean"
+  ]
+},
+{
+  "id": "mozambique",
+  "name": "Mozambique",
+  "demonym": "Mozambican",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+  "heroImage": "",
+  "capital": "Maputo",
+  "region": "Southern Africa",
+  "population": 35000000,
+  "language": "Portuguese",
+  "summary": {
+    "description": "Mozambican cuisine is known for seafood, coconut, cassava, rice, and Portuguese-inspired peri-peri flavors.",
+    "dietHighlights": [
+      "Seafood",
+      "Coconut",
+      "Rice",
+      "Cassava"
+    ]
+  },
+  "signatureFoods": [
+    "Piri-Piri Chicken",
+    "Matapa",
+    "Prawn Curry"
+  ],
+  "cuisineTags": [
+    "Southern African",
+    "Portuguese Influence",
+    "Coastal Cuisine"
+  ]
+},
+{
+  "id": "namibia",
+  "name": "Namibia",
+  "demonym": "Namibian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+  "heroImage": "",
+  "capital": "Windhoek",
+  "region": "Southern Africa",
+  "population": 3100000,
+  "language": "English",
+  "summary": {
+    "description": "Namibian cuisine combines indigenous traditions with German and South African influences, emphasizing game meats and hearty grains.",
+    "dietHighlights": [
+      "Lean game meats",
+      "Whole grains",
+      "Fresh vegetables",
+      "Seafood"
+    ]
+  },
+  "signatureFoods": [
+    "Kapana",
+    "Potjiekos",
+    "Biltong"
+  ],
+  "cuisineTags": [
+    "Southern African"
+  ]
+},
+{
+  "id": "niger",
+  "name": "Niger",
+  "demonym": "Nigerien",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+  "heroImage": "",
+  "capital": "Niamey",
+  "region": "West Africa",
+  "population": 28200000,
+  "language": "French",
+  "summary": {
+    "description": "Nigerien cuisine focuses on millet, sorghum, rice, vegetables, and goat meat adapted to the Sahel climate.",
+    "dietHighlights": [
+      "Millet",
+      "Sorghum",
+      "Goat",
+      "Legumes"
+    ]
+  },
+  "signatureFoods": [
+    "Jollof Rice",
+    "Djerma Stew",
+    "Millet Porridge"
+  ],
+  "cuisineTags": [
+    "West African",
+    "Sahel"
+  ]
+},
+{
+  "id": "nigeria",
+  "name": "Nigeria",
+  "demonym": "Nigerian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+  "heroImage": "",
+  "capital": "Abuja",
+  "region": "West Africa",
+  "population": 237000000,
+  "language": "English",
+  "summary": {
+    "description": "Nigerian cuisine is one of Africa's most diverse, featuring yams, cassava, rice, beans, peppers, seafood, and richly seasoned soups.",
+    "dietHighlights": [
+      "Root vegetables",
+      "Beans",
+      "Fish",
+      "Leafy vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Jollof Rice",
+    "Egusi Soup",
+    "Pounded Yam"
+  ],
+  "cuisineTags": [
+    "West African"
+  ]
+},
+{
+  "id": "republic-of-the-congo",
+  "name": "Republic of the Congo",
+  "demonym": "Congolese",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+  "heroImage": "",
+  "capital": "Brazzaville",
+  "region": "Central Africa",
+  "population": 6500000,
+  "language": "French",
+  "summary": {
+    "description": "Congolese cuisine features cassava, fish, peanuts, leafy vegetables, and tropical fruits.",
+    "dietHighlights": [
+      "Cassava",
+      "Fresh fish",
+      "Leafy greens",
+      "Peanuts"
+    ]
+  },
+  "signatureFoods": [
+    "Saka-Saka",
+    "Moambe Chicken",
+    "Fufu"
+  ],
+  "cuisineTags": [
+    "Central African"
+  ]
+},
+{
+  "id": "rwanda",
+  "name": "Rwanda",
+  "demonym": "Rwandan",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+  "heroImage": "",
+  "capital": "Kigali",
+  "region": "East Africa",
+  "population": 14500000,
+  "language": "Kinyarwanda, English, French",
+  "summary": {
+    "description": "Rwandan cuisine is largely plant-based with beans, sweet potatoes, bananas, cassava, and locally grown vegetables.",
+    "dietHighlights": [
+      "Beans",
+      "Sweet potatoes",
+      "Bananas",
+      "Vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Ugali",
+    "Isombe",
+    "Brochettes"
+  ],
+  "cuisineTags": [
+    "East African"
+  ]
+},
+{
+  "id": "sao-tome-and-principe",
+  "name": "São Tomé and Príncipe",
+  "demonym": "São Tomean",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+  "heroImage": "",
+  "capital": "São Tomé",
+  "region": "Central Africa",
+  "population": 240000,
+  "language": "Portuguese",
+  "summary": {
+    "description": "Island cuisine emphasizing seafood, tropical fruits, coconut, cocoa, and fresh vegetables.",
+    "dietHighlights": [
+      "Seafood",
+      "Tropical fruits",
+      "Coconut",
+      "Fresh vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Calulu",
+    "Grilled Fish",
+    "Banana Bread"
+  ],
+  "cuisineTags": [
+    "Island Cuisine",
+    "Central African"
+  ]
+},
+{
+  "id": "senegal",
+  "name": "Senegal",
+  "demonym": "Senegalese",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+  "heroImage": "",
+  "capital": "Dakar",
+  "region": "West Africa",
+  "population": 19300000,
+  "language": "French",
+  "summary": {
+    "description": "Senegalese cuisine emphasizes seafood, rice, vegetables, peanuts, and flavorful one-pot meals.",
+    "dietHighlights": [
+      "Seafood",
+      "Rice",
+      "Vegetables",
+      "Peanuts"
+    ]
+  },
+  "signatureFoods": [
+    "Thieboudienne",
+    "Yassa Chicken",
+    "Mafé"
+  ],
+  "cuisineTags": [
+    "West African"
+  ]
+},
+{
+  "id": "seychelles",
+  "name": "Seychelles",
+  "demonym": "Seychellois",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+  "heroImage": "",
+  "capital": "Victoria",
+  "region": "East Africa",
+  "population": 108000,
+  "language": "English, French, Seychellois Creole",
+  "summary": {
+    "description": "Seychellois cuisine combines African, French, and Indian traditions with abundant seafood and tropical produce.",
+    "dietHighlights": [
+      "Seafood",
+      "Coconut",
+      "Fresh fruit",
+      "Herbs"
+    ]
+  },
+  "signatureFoods": [
+    "Fish Curry",
+    "Grilled Octopus",
+    "Ladob"
+  ],
+  "cuisineTags": [
+    "Island Cuisine",
+    "East African"
+  ]
+},
+{
+  "id": "sierra-leone",
+  "name": "Sierra Leone",
+  "demonym": "Sierra Leonean",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+  "heroImage": "",
+  "capital": "Freetown",
+  "region": "West Africa",
+  "population": 8900000,
+  "language": "English",
+  "summary": {
+    "description": "Cuisine based on rice, cassava, leafy vegetables, seafood, and flavorful pepper soups.",
+    "dietHighlights": [
+      "Rice",
+      "Seafood",
+      "Leafy vegetables",
+      "Cassava"
+    ]
+  },
+  "signatureFoods": [
+    "Cassava Leaves",
+    "Groundnut Stew",
+    "Jollof Rice"
+  ],
+  "cuisineTags": [
+    "West African"
+  ]
+},
+{
+  "id": "somalia",
+  "name": "Somalia",
+  "demonym": "Somali",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+  "heroImage": "",
+  "capital": "Mogadishu",
+  "region": "East Africa",
+  "population": 19600000,
+  "language": "Somali, Arabic",
+  "summary": {
+    "description": "Somali cuisine blends African, Arab, and Indian influences with rice, camel, goat, seafood, and aromatic spices.",
+    "dietHighlights": [
+      "Lean meats",
+      "Rice",
+      "Seafood",
+      "Spices"
+    ]
+  },
+  "signatureFoods": [
+    "Bariis Iskukaris",
+    "Canjeero",
+    "Suqaar"
+  ],
+  "cuisineTags": [
+    "Horn of Africa"
+  ]
+},
+{
+  "id": "south-africa",
+  "name": "South Africa",
+  "demonym": "South African",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+  "heroImage": "",
+  "capital": "Pretoria",
+  "region": "Southern Africa",
+  "population": 64000000,
+  "language": "11 Official Languages",
+  "summary": {
+    "description": "South African cuisine reflects African, Dutch, Indian, and Malay traditions with grilled meats, vegetables, seafood, and maize dishes.",
+    "dietHighlights": [
+      "Lean meats",
+      "Seafood",
+      "Vegetables",
+      "Whole grains"
+    ]
+  },
+  "signatureFoods": [
+    "Bobotie",
+    "Braai",
+    "Bunny Chow"
+  ],
+  "cuisineTags": [
+    "Southern African"
+  ]
+},
+{
+  "id": "south-sudan",
+  "name": "South Sudan",
+  "demonym": "South Sudanese",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+  "heroImage": "",
+  "capital": "Juba",
+  "region": "East Africa",
+  "population": 12000000,
+  "language": "English",
+  "summary": {
+    "description": "Traditional cuisine features sorghum, millet, vegetables, beans, fish, and grilled meats.",
+    "dietHighlights": [
+      "Millet",
+      "Beans",
+      "Fish",
+      "Vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Kisra",
+    "Asida",
+    "Ful Medames"
+  ],
+  "cuisineTags": [
+    "East African"
+  ]
+},
+{
+  "id": "sudan",
+  "name": "Sudan",
+  "demonym": "Sudanese",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+  "heroImage": "",
+  "capital": "Khartoum",
+  "region": "North Africa",
+  "population": 51000000,
+  "language": "Arabic, English",
+  "summary": {
+    "description": "Sudanese cuisine combines North African and East African traditions with sorghum, beans, lamb, and aromatic spices.",
+    "dietHighlights": [
+      "Sorghum",
+      "Beans",
+      "Lamb",
+      "Legumes"
+    ]
+  },
+  "signatureFoods": [
+    "Ful Medames",
+    "Kisra",
+    "Mullah"
+  ],
+  "cuisineTags": [
+    "North African",
+    "East African"
+  ]
+},
+{
+  "id": "tanzania",
+  "name": "Tanzania",
+  "demonym": "Tanzanian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+  "heroImage": "",
+  "capital": "Dodoma",
+  "region": "East Africa",
+  "population": 70000000,
+  "language": "Swahili, English",
+  "summary": {
+    "description": "Tanzanian cuisine features rice, maize, seafood, plantains, beans, and East African spices.",
+    "dietHighlights": [
+      "Rice",
+      "Beans",
+      "Seafood",
+      "Plantains"
+    ]
+  },
+  "signatureFoods": [
+    "Ugali",
+    "Pilau",
+    "Mshikaki"
+  ],
+  "cuisineTags": [
+    "East African"
+  ]
+},
+{
+  "id": "togo",
+  "name": "Togo",
+  "demonym": "Togolese",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+  "heroImage": "",
+  "capital": "Lomé",
+  "region": "West Africa",
+  "population": 9800000,
+  "language": "French",
+  "summary": {
+    "description": "Cuisine includes maize, cassava, yams, seafood, legumes, and spicy sauces.",
+    "dietHighlights": [
+      "Cassava",
+      "Maize",
+      "Seafood",
+      "Vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Fufu",
+    "Akume",
+    "Grilled Fish"
+  ],
+  "cuisineTags": [
+    "West African"
+  ]
+},
+{
+  "id": "tunisia",
+  "name": "Tunisia",
+  "demonym": "Tunisian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+  "heroImage": "",
+  "capital": "Tunis",
+  "region": "North Africa",
+  "population": 12400000,
+  "language": "Arabic",
+  "summary": {
+    "description": "Tunisian cuisine combines Mediterranean ingredients with North African spices, seafood, olive oil, and vegetables.",
+    "dietHighlights": [
+      "Olive oil",
+      "Seafood",
+      "Whole grains",
+      "Vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Couscous",
+    "Brik",
+    "Shakshuka"
+  ],
+  "cuisineTags": [
+    "North African",
+    "Mediterranean"
+  ]
+},
+{
+  "id": "uganda",
+  "name": "Uganda",
+  "demonym": "Ugandan",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+  "heroImage": "",
+  "capital": "Kampala",
+  "region": "East Africa",
+  "population": 52000000,
+  "language": "English, Swahili",
+  "summary": {
+    "description": "Ugandan cuisine centers around bananas, cassava, maize, beans, fish, and fresh vegetables.",
+    "dietHighlights": [
+      "Bananas",
+      "Beans",
+      "Fresh fish",
+      "Cassava"
+    ]
+  },
+  "signatureFoods": [
+    "Matoke",
+    "Rolex",
+    "Luwombo"
+  ],
+  "cuisineTags": [
+    "East African"
+  ]
+},
+{
+  "id": "zambia",
+  "name": "Zambia",
+  "demonym": "Zambian",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+  "heroImage": "",
+  "capital": "Lusaka",
+  "region": "Southern Africa",
+  "population": 22000000,
+  "language": "English",
+  "summary": {
+    "description": "Zambian cuisine emphasizes maize, vegetables, fish, beans, and locally grown produce.",
+    "dietHighlights": [
+      "Whole grains",
+      "Beans",
+      "Fish",
+      "Leafy vegetables"
+    ]
+  },
+  "signatureFoods": [
+    "Nshima",
+    "Ifisashi",
+    "Kapenta"
+  ],
+  "cuisineTags": [
+    "Southern African"
+  ]
+},
+{
+  "id": "zimbabwe",
+  "name": "Zimbabwe",
+  "demonym": "Zimbabwean",
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+  "heroImage": "",
+  "capital": "Harare",
+  "region": "Southern Africa",
+  "population": 17000000,
+  "language": "English, Shona, Ndebele",
+  "summary": {
+    "description": "Zimbabwean cuisine features maize, leafy greens, beans, beef, and freshwater fish in nutritious traditional dishes.",
+    "dietHighlights": [
+      "Whole grains",
+      "Beans",
+      "Leafy vegetables",
+      "Lean beef"
+    ]
+  },
+  "signatureFoods": [
+    "Sadza",
+    "Nyama",
+    "Muriwo Unedovi"
+  ],
+  "cuisineTags": [
+    "Southern African"
+  ]
+}
+]

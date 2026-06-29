@@ -1,0 +1,1325 @@
+[
+    {
+        "id": "afghanistan",
+        "name": "Afghanistan",
+        "demonym": "Afghan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Afghanistan.svg",
+        "heroImage": "",
+        "capital": "Kabul",
+        "region": "Central Asia",
+        "population": 35000000,
+        "language": "Dari, Pashto",
+        "summary": {
+            "description": "Afghan cuisine features a variety of dishes made with rice, lamb, and aromatic spices.",
+            "dietHighlights": [
+            "Rice",
+            "Lamb",
+            "Aromatic spices"
+            ]
+        },
+        "signatureFoods": [
+            "Kabuli Pulao",
+            "Mantu"
+        ],
+        "cuisineTags": [
+            "Central Asian",
+            "Middle Eastern",
+            "Halal",
+            "Rice-Based"
+        ]
+},
+{
+        "id": "albania",
+        "name": "Albania",
+        "demonym": "Albanian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+        "heroImage": "",
+        "capital": "Tirana",
+        "region": "Southern Europe",
+        "population": 2877797,
+        "language": "Albanian",
+        "summary": {
+            "description": "Albanian cuisine is known for its Mediterranean flavors, with an emphasis on fresh vegetables, olive oil, and grilled meats.",
+            "dietHighlights": [
+                "Mediterranean flavors",
+                "Fresh vegetables",
+                "Olive oil",
+                "Grilled meats"
+            ]
+        },
+        "signatureFoods": [
+            "Byrek",
+            "Tavë Kosi"
+        ],
+        "cuisineTags": [
+            "Balkan",
+            "Mediterranean",
+            "Southeastern European"
+        ]
+    },
+     {
+        "id": "andorra",
+        "name": "Andorra",
+        "demonym": "Andorran",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+        "heroImage": "",
+        "capital": "Andorra la Vella",
+        "region": "Southern Europe",
+        "population": 77265,
+        "language": "Catalan",
+        "summary": {
+            "description": "Andorran cuisine is influenced by both French and Spanish flavors, with a focus on dairy products and mountain ingredients.",
+            "dietHighlights": [
+                "Dairy products",
+                "Mountain ingredients"
+            ]
+        },
+        "signatureFoods": [
+            "Coca"
+        ],
+        "cuisineTags": [
+            "Mountain Cuisine",
+            "Catalan",
+            "Pyrenean"
+        ]
+    },
+    {
+        "id": "austria",
+        "name": "Austria",
+        "demonym": "Austrian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "heroImage": "",
+        "capital": "Vienna",
+        "region": "Central Europe",
+        "population": 9006398,
+        "language": "German",
+        "summary": {
+            "description": "Austrian cuisine is known for its hearty dishes, pastries, and coffee culture.",
+            "dietHighlights": [
+                "Hearty dishes",
+                "Pastries",
+                "Coffee culture"
+            ]
+        },
+        "signatureFoods": [
+            "Sachertorte",
+            "Wiener Schnitzel"
+        ],
+        "cuisineTags": [
+            "Central European",
+            "Alpine",
+            "Germanic"
+        ]
+    },
+     {
+        "id": "belarus",
+        "name": "Belarus",
+        "demonym": "Belarusian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+        "heroImage": "",
+        "capital": "Minsk",
+        "region": "Eastern Europe",
+        "population": 9441835,
+        "language": "Belarusian, Russian",
+        "summary": {
+            "description": "Belarusian cuisine is characterized by its hearty dishes and use of potatoes, cabbage, and grains.",
+            "dietHighlights": [
+                "Hearty dishes",
+                "Potatoes",
+                "Cabbage",
+                "Grains"
+            ]
+        },
+        "signatureFoods": [
+            "Kolduny",
+            "Draniki"
+        ],
+        "cuisineTags": [
+            "Eastern European",
+            "Slavic",
+            "Rustic"
+        ]
+    },
+    {
+        "id": "belgium",
+        "name": "Belgium",
+        "demonym": "Belgian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "heroImage": "",
+        "capital": "Brussels",
+        "region": "Western Europe",
+       "population": 11484058,
+        "language": "Dutch, French, German",
+        "summary": {
+           "description": "Belgian cuisine is famous for its waffles, chocolate, and beer.",
+           "dietHighlights": [
+                "Waffles",
+                "Chocolate",
+                "Beer"
+            ]
+        },
+        "signatureFoods": [
+            "Waffles",
+            "Chocolate",
+            "Beer"
+        ],
+        "cuisineTags": [
+            "Western European",
+            "French Influence",
+            "Flemish"
+        ]
+    },
+    {
+        "id": "bosnia-and-herzegovina",
+        "name": "Bosnia and Herzegovina",
+        "demonym": "Bosnian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+        "heroImage": "",
+        "capital": "Sarajevo",
+        "region": "Southern Europe",
+        "population": 3280819,
+        "language": "Bosnian, Croatian, Serbian",
+        "summary": {
+            "description": "Bosnian cuisine is influenced by Turkish, Mediterranean, and Eastern European flavors, with a focus on grilled meats and hearty stews.",
+            "dietHighlights": [
+                "Grilled meats",
+                "Hearty stews"
+            ]
+        },
+        "signatureFoods": [
+            "Ćevapi",
+            "Burek"
+        ],
+        "cuisineTags": [
+            "Balkan",
+            "Ottoman Influence",
+            "Southeastern European"
+        ]
+    },
+      {
+        "id": "bulgaria",
+        "name": "Bulgaria",
+        "demonym": "Bulgarian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+        "heroImage": "",
+        "capital": "Sofia",
+        "region": "Southeastern Europe",
+        "population": 6951482,
+        "language": "Bulgarian",
+        "summary": {
+            "description": "Bulgarian cuisine is known for its use of fresh vegetables, yogurt, and herbs.",
+            "dietHighlights": [
+                "Fresh vegetables",
+                "Yogurt",
+                "Herbs"
+            ]
+        },
+        "signatureFoods": [
+            "Banitsa",
+            "Shopska Salad"
+        ],
+        "cuisineTags": [
+           "Balkan",
+            "Mediterranean",
+            "Southeastern European"
+        ]
+    },
+    {
+        "id": "croatia",
+        "name": "Croatia",
+        "demonym": "Croatian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+        "heroImage": "",
+        "capital": "Zagreb",
+        "region": "Southern Europe",
+        "population": 4105267,
+        "language": "Croatian",
+        "summary": {
+            "description": "Croatian cuisine is diverse, with influences from Mediterranean and Central European flavors.",
+            "dietHighlights": [
+                "Mediterranean flavors",
+                "Central European flavors"
+            ]
+        },
+        "signatureFoods": [
+            "Pasticada",
+            "Peka"
+        ],
+        "cuisineTags": [
+             "Balkan",
+            "Mediterranean",
+            "Central European"
+        ]
+    },
+    {
+        "id": "cyprus",
+        "name": "Cyprus",
+        "demonym": "Cypriot",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "heroImage": "",
+        "capital": "Nicosia",
+        "region": "Eastern Mediterranean",
+        "population": 1207359,
+        "language": "Greek, Turkish",
+        "summary": {
+            "description": "Cypriot cuisine is a blend of Greek and Middle Eastern flavors, with an emphasis on fresh ingredients and olive oil.",
+            "dietHighlights": [
+                "Greek flavors",
+                "Middle Eastern flavors",
+                "Fresh ingredients",
+                "Olive oil"
+            ]
+        },
+        "signatureFoods": [
+            "Halloumi",
+            "Souvlaki"
+        ],
+        "cuisineTags": [
+             "Mediterranean",
+            "Greek",
+            "Middle Eastern"
+        ]
+    },
+    {
+        "id": "czechia",
+        "name": "Czechia",
+        "demonym": "Czech",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+        "heroImage": "",
+        "capital": "Prague",
+        "region": "Central Europe",
+        "population": 10708981,
+        "language": "Czech",
+        "summary": {
+            "description": "Czech cuisine is known for its hearty dishes, beer culture, and traditional cooking methods.",
+            "dietHighlights": [
+                "Hearty dishes",
+                "Beer culture",
+                "Traditional cooking methods"
+            ]
+        },
+        "signatureFoods": [
+            "Goulash",
+            "Trdelník"
+        ],
+        "cuisineTags": [
+            "Central European",
+            "Slavic",
+            "Bohemian"
+        ]
+    },
+    {
+        "id": "denmark",
+        "name": "Denmark",
+        "demonym": "Danish",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Denmark.svg",
+        "heroImage": "",
+        "capital": "Copenhagen",
+        "region": "Northern Europe",
+        "population": 5831404,
+        "language": "Danish",
+        "summary": {
+            "description": "Danish cuisine is characterized by its simplicity, use of fresh ingredients, and traditional techniques.",
+           "dietHighlights": [
+               "Simplicity",
+               "Fresh ingredients",
+               "Traditional techniques"
+           ]
+        },
+       "signatureFoods": [
+           "Smørrebrød",
+           "Frikadeller"
+        ],
+       "cuisineTags": [
+            "Nordic",
+            "Scandinavian",
+            "Northern European"
+        ]
+    },
+    {
+        "id": "estonia",
+        "name": "Estonia",
+        "demonym": "Estonian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+        "heroImage": "",
+        "capital": "Tallinn",
+        "region": "Northern Europe",
+        "population": 1331088,
+        "language": "Estonian",
+        "summary": {
+            "description": "Estonian cuisine is influenced by its Baltic heritage and features a variety of fish, meat, and dairy products.",
+            "dietHighlights": [
+                "Baltic heritage",
+                "Fish",
+                "Meat",
+                "Dairy products"
+            ]
+        },
+        "signatureFoods": [
+            "Verivorst",
+            "Kama"
+        ],
+        "cuisineTags": [
+           "Baltic",
+            "Nordic",
+            "Northern European"
+        ]
+    },
+    {
+        "id": "finland",
+        "name": "Finland",
+        "demonym": "Finnish",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+        "heroImage": "",
+        "capital": "Helsinki",
+        "region": "Northern Europe",
+        "population": 5617310,
+        "language": "Finnish, Swedish",
+        "summary": {
+            "description": "Finnish cuisine emphasizes fresh fish, berries, whole grains, mushrooms, and seasonal ingredients.",
+            "dietHighlights": [
+                "Fish",
+                "Whole grains",
+                "Berries",
+                "Mushrooms"
+            ]
+        },
+        "signatureFoods": [
+            "Karjalanpiirakka",
+            "Lohikeitto"
+        ],
+        "cuisineTags": [
+            "Nordic",
+            "Scandinavian",
+            "Northern European"
+        ]
+    },
+    {
+        "id": "france",
+        "name": "France",
+        "demonym": "French",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "heroImage": "",
+        "capital": "Paris",
+        "region": "Western Europe",
+        "population": 68370000,
+        "language": "French",
+        "summary": {
+            "description": "French cuisine is renowned for its culinary techniques, regional specialties, cheeses, breads, and wines.",
+            "dietHighlights": [
+                "Fresh produce",
+                "Cheese",
+                "Seafood",
+                "Artisan bread"
+            ]
+        },
+        "signatureFoods": [
+            "Coq au Vin",
+            "Ratatouille"
+        ],
+        "cuisineTags": [
+            "Western European",
+            "Mediterranean",
+            "French"
+        ]
+    },
+    {
+    "id": "germany",
+    "name": "Germany",
+    "demonym": "German",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "heroImage": "",
+    "capital": "Berlin",
+    "region": "Central Europe",
+    "population": 84500000,
+    "language": "German",
+    "summary": {
+        "description": "German cuisine includes hearty meats, breads, potatoes, cabbage, and regional specialties.",
+        "dietHighlights": [
+            "Whole grains",
+            "Potatoes",
+            "Cabbage",
+            "Lean meats"
+        ]
+    },
+    "signatureFoods": [
+        "Bratwurst",
+        "Sauerbraten"
+    ],
+    "cuisineTags": [
+        "Central European",
+        "Germanic",
+        "Western European"
+    ]
+    },
+    {
+        "id": "greece",
+        "name": "Greece",
+        "demonym": "Greek",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "heroImage": "",
+        "capital": "Athens",
+        "region": "Southern Europe",
+        "population": 10300000,
+        "language": "Greek",
+        "summary": {
+            "description": "Greek cuisine is built around olive oil, seafood, vegetables, legumes, and herbs characteristic of the Mediterranean diet.",
+            "dietHighlights": [
+                "Olive oil",
+                "Seafood",
+                "Legumes",
+                "Vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Moussaka",
+            "Souvlaki"
+        ],
+        "cuisineTags": [
+            "Mediterranean",
+            "Balkan",
+            "Greek"
+        ]
+    },
+    {
+        "id": "hungary",
+        "name": "Hungary",
+        "demonym": "Hungarian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "heroImage": "",
+        "capital": "Budapest",
+        "region": "Central Europe",
+        "population": 9585000,
+        "language": "Hungarian",
+        "summary": {
+            "description": "Hungarian cuisine is known for paprika, hearty stews, soups, and rich flavors.",
+            "dietHighlights": [
+                "Paprika",
+                "Beef",
+                "Vegetables",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Goulash",
+            "Chicken Paprikash"
+        ],
+        "cuisineTags": [
+            "Central European",
+            "Hungarian",
+            "Carpathian"
+        ]
+    },
+    {
+        "id": "iceland",
+        "name": "Iceland",
+        "demonym": "Icelandic",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+        "heroImage": "",
+        "capital": "Reykjavik",
+        "region": "Northern Europe",
+        "population": 398000,
+        "language": "Icelandic",
+        "summary": {
+            "description": "Icelandic cuisine relies heavily on seafood, lamb, dairy, and preserved foods.",
+            "dietHighlights": [
+                "Seafood",
+                "Lamb",
+                "Dairy",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Plokkfiskur",
+            "Skyr"
+        ],
+        "cuisineTags": [
+            "Nordic",
+            "Scandinavian",
+            "Island Cuisine"
+        ]
+    },
+    {
+        "id": "ireland",
+        "name": "Ireland",
+        "demonym": "Irish",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+        "heroImage": "",
+        "capital": "Dublin",
+        "region": "Northern Europe",
+        "population": 5380000,
+        "language": "Irish, English",
+        "summary": {
+            "description": "Irish cuisine features potatoes, seafood, lamb, beef, and hearty home-style cooking.",
+            "dietHighlights": [
+                "Potatoes",
+                "Seafood",
+                "Beef",
+                "Root vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Irish Stew",
+            "Boxty"
+        ],
+        "cuisineTags": [
+            "British Isles",
+            "Northern European",
+            "Celtic"
+        ]
+    },
+    {
+        "id": "italy",
+        "name": "Italy",
+        "demonym": "Italian",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "heroImage": "",
+        "capital": "Rome",
+        "region": "Southern Europe",
+        "population": 58900000,
+        "language": "Italian",
+        "summary": {
+            "description": "Italian cuisine emphasizes fresh ingredients, olive oil, vegetables, pasta, seafood, and regional traditions.",
+            "dietHighlights": [
+                "Olive oil",
+                "Vegetables",
+                "Whole grains",
+                "Seafood"
+            ]
+        },
+        "signatureFoods": [
+            "Pizza",
+            "Lasagna"
+        ],
+        "cuisineTags": [
+            "Mediterranean",
+            "Southern European",
+            "Italian"
+        ]
+    },
+    {
+        "id": "latvia",
+        "name": "Latvia",
+        "demonym": "Latvian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+        "heroImage": "",
+        "capital": "Riga",
+        "region": "Northern Europe",
+        "population": 1880000,
+        "language": "Latvian",
+        "summary": {
+            "description": "Latvian cuisine is based on rye bread, potatoes, fish, mushrooms, and dairy.",
+            "dietHighlights": [
+                "Rye",
+                "Fish",
+                "Potatoes",
+                "Mushrooms"
+            ]
+        },
+        "signatureFoods": [
+            "Grey Peas with Bacon",
+            "Sklandrausis"
+        ],
+        "cuisineTags": [
+            "Baltic",
+            "Northern European",
+            "Eastern European"
+        ]
+    },
+    {
+        "id": "liechtenstein",
+        "name": "Liechtenstein",
+        "demonym": "Liechtensteiner",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "heroImage": "",
+        "capital": "Vaduz",
+        "region": "Central Europe",
+        "population": 41000,
+        "language": "German",
+        "summary": {
+            "description": "Liechtenstein cuisine shares traditions with Switzerland and Austria, featuring cheese, potatoes, and alpine dishes.",
+            "dietHighlights": [
+                "Cheese",
+                "Potatoes",
+                "Dairy",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Käsknöpfle",
+            "Ribel"
+        ],
+        "cuisineTags": [
+            "Alpine",
+            "Central European",
+            "Germanic"
+        ]
+    },
+    {
+        "id": "lithuania",
+        "name": "Lithuania",
+        "demonym": "Lithuanian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+        "heroImage": "",
+        "capital": "Vilnius",
+        "region": "Northern Europe",
+        "population": 2890000,
+        "language": "Lithuanian",
+        "summary": {
+            "description": "Lithuanian cuisine features rye bread, potatoes, mushrooms, dairy products, and hearty home-cooked meals.",
+            "dietHighlights": [
+                "Rye bread",
+                "Potatoes",
+                "Mushrooms",
+                "Dairy"
+            ]
+        },
+        "signatureFoods": [
+            "Cepelinai",
+            "Šaltibarščiai"
+        ],
+        "cuisineTags": [
+            "Baltic",
+            "Northern European",
+            "Eastern European"
+        ]
+    },
+    {
+        "id": "luxembourg",
+        "name": "Luxembourg",
+        "demonym": "Luxembourger",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+        "heroImage": "",
+        "capital": "Luxembourg City",
+        "region": "Western Europe",
+        "population": 681000,
+        "language": "Luxembourgish, French, German",
+        "summary": {
+            "description": "Luxembourg cuisine blends French, German, and Belgian influences with meats, potatoes, pastries, and wines.",
+            "dietHighlights": [
+                "Lean meats",
+                "Potatoes",
+                "Fresh vegetables",
+                "Pastries"
+            ]
+        },
+        "signatureFoods": [
+            "Judd mat Gaardebounen",
+            "Gromperekichelcher"
+        ],
+        "cuisineTags": [
+            "Western European",
+            "French Influence",
+            "Germanic"
+        ]
+    },
+    {
+        "id": "malta",
+        "name": "Malta",
+        "demonym": "Maltese",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+        "heroImage": "",
+        "capital": "Valletta",
+        "region": "Southern Europe",
+        "population": 563000,
+        "language": "Maltese, English",
+        "summary": {
+            "description": "Maltese cuisine combines Mediterranean traditions with Italian, Arabic, and British influences.",
+            "dietHighlights": [
+                "Seafood",
+                "Olive oil",
+                "Fresh vegetables",
+                "Legumes"
+            ]
+        },
+        "signatureFoods": [
+            "Pastizzi",
+            "Rabbit Stew"
+        ],
+        "cuisineTags": [
+            "Mediterranean",
+            "Island Cuisine",
+            "Southern European"
+        ]
+    },
+    {
+        "id": "moldova",
+        "name": "Moldova",
+        "demonym": "Moldovan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+        "heroImage": "",
+        "capital": "Chișinău",
+        "region": "Eastern Europe",
+        "population": 2510000,
+        "language": "Romanian",
+        "summary": {
+            "description": "Moldovan cuisine is based on grains, vegetables, wines, and traditional Eastern European recipes.",
+            "dietHighlights": [
+                "Whole grains",
+                "Vegetables",
+                "Beans",
+                "Fresh herbs"
+            ]
+        },
+        "signatureFoods": [
+            "Mămăligă",
+            "Plăcintă"
+        ],
+        "cuisineTags": [
+            "Eastern European",
+            "Balkan",
+            "Slavic"
+        ]
+    },
+    {
+        "id": "monaco",
+        "name": "Monaco",
+        "demonym": "Monégasque",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+        "heroImage": "",
+        "capital": "Monaco",
+        "region": "Western Europe",
+        "population": 39000,
+        "language": "French",
+        "summary": {
+            "description": "Monégasque cuisine is Mediterranean with an emphasis on seafood, vegetables, olive oil, and Provençal flavors.",
+            "dietHighlights": [
+                "Seafood",
+                "Olive oil",
+                "Vegetables",
+                "Fresh herbs"
+            ]
+        },
+        "signatureFoods": [
+            "Barbagiuan",
+            "Stocafi"
+        ],
+        "cuisineTags": [
+            "Mediterranean",
+            "French",
+            "Italian"
+        ]
+    },
+    {
+        "id": "montenegro",
+        "name": "Montenegro",
+        "demonym": "Montenegrin",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+        "heroImage": "",
+        "capital": "Podgorica",
+        "region": "Southern Europe",
+        "population": 617000,
+        "language": "Montenegrin",
+        "summary": {
+            "description": "Montenegrin cuisine blends Balkan and Mediterranean traditions with seafood, grilled meats, cheeses, and vegetables.",
+            "dietHighlights": [
+                "Seafood",
+                "Grilled meats",
+                "Cheese",
+                "Vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Njeguški Pršut",
+            "Kačamak"
+        ],
+        "cuisineTags": [
+            "Balkan",
+            "Mediterranean",
+            "Southern European"
+        ]
+    },
+    {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "demonym": "Dutch",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "heroImage": "",
+        "capital": "Amsterdam",
+        "region": "Western Europe",
+        "population": 18000000,
+        "language": "Dutch",
+        "summary": {
+            "description": "Dutch cuisine features breads, cheeses, potatoes, seafood, and hearty comfort foods.",
+            "dietHighlights": [
+                "Whole grains",
+                "Cheese",
+                "Seafood",
+                "Potatoes"
+            ]
+        },
+        "signatureFoods": [
+            "Stamppot",
+            "Bitterballen"
+        ],
+        "cuisineTags": [
+            "Western European",
+            "Dutch",
+            "North Sea"
+        ]
+    },
+    {
+        "id": "north-macedonia",
+        "name": "North Macedonia",
+        "demonym": "Macedonian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+        "heroImage": "",
+        "capital": "Skopje",
+        "region": "Southern Europe",
+        "population": 1830000,
+        "language": "Macedonian",
+        "summary": {
+            "description": "North Macedonian cuisine is influenced by Balkan and Ottoman traditions, emphasizing peppers, beans, grilled meats, and fresh vegetables.",
+            "dietHighlights": [
+                "Beans",
+                "Peppers",
+                "Grilled meats",
+                "Vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Tavče Gravče",
+            "Ajvar"
+        ],
+        "cuisineTags": [
+            "Balkan",
+            "Ottoman Influence",
+            "Southern European"
+        ]
+    },
+    {
+        "id": "norway",
+        "name": "Norway",
+        "demonym": "Norwegian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "heroImage": "",
+        "capital": "Oslo",
+        "region": "Northern Europe",
+        "population": 5600000,
+        "language": "Norwegian",
+        "summary": {
+            "description": "Norwegian cuisine is built around seafood, salmon, lamb, berries, and whole grains.",
+            "dietHighlights": [
+                "Seafood",
+                "Whole grains",
+                "Berries",
+                "Lean meats"
+            ]
+        },
+        "signatureFoods": [
+            "Rakfisk",
+            "Fårikål"
+        ],
+        "cuisineTags": [
+            "Nordic",
+            "Scandinavian",
+            "Northern European"
+        ]
+    },
+    {
+        "id": "poland",
+        "name": "Poland",
+        "demonym": "Polish",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+        "heroImage": "",
+        "capital": "Warsaw",
+        "region": "Central Europe",
+        "population": 37700000,
+        "language": "Polish",
+        "summary": {
+            "description": "Polish cuisine includes hearty soups, dumplings, rye bread, mushrooms, cabbage, and meats.",
+            "dietHighlights": [
+                "Rye bread",
+                "Mushrooms",
+                "Cabbage",
+                "Lean meats"
+            ]
+        },
+        "signatureFoods": [
+            "Pierogi",
+            "Bigos"
+        ],
+        "cuisineTags": [
+            "Slavic",
+            "Central European",
+            "Eastern European"
+        ]
+    },
+    {
+    "id": "portugal",
+    "name": "Portugal",
+    "demonym": "Portuguese",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+    "heroImage": "",
+    "capital": "Lisbon",
+    "region": "Southern Europe",
+    "population": 10400000,
+    "language": "Portuguese",
+    "summary": {
+        "description": "Portuguese cuisine is centered around seafood, olive oil, legumes, and Mediterranean flavors with a rich maritime tradition.",
+        "dietHighlights": [
+            "Seafood",
+            "Olive oil",
+            "Legumes",
+            "Fresh vegetables"
+        ]
+    },
+    "signatureFoods": [
+        "Bacalhau à Brás",
+        "Caldo Verde"
+    ],
+    "cuisineTags": [
+        "Mediterranean",
+        "Iberian",
+        "Southern European"
+    ]
+    },
+    {
+        "id": "romania",
+        "name": "Romania",
+        "demonym": "Romanian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+        "heroImage": "",
+        "capital": "Bucharest",
+        "region": "Eastern Europe",
+        "population": 19000000,
+        "language": "Romanian",
+        "summary": {
+            "description": "Romanian cuisine combines Balkan and Central European traditions with hearty soups, grilled meats, vegetables, and maize.",
+            "dietHighlights": [
+                "Whole grains",
+                "Vegetables",
+                "Beans",
+                "Lean meats"
+            ]
+        },
+        "signatureFoods": [
+            "Sarmale",
+            "Mămăligă"
+        ],
+        "cuisineTags": [
+            "Balkan",
+            "Eastern European",
+            "Central European"
+        ]
+    },
+    {
+        "id": "russia",
+        "name": "Russia",
+        "demonym": "Russian",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "heroImage": "",
+        "capital": "Moscow",
+        "region": "Eastern Europe",
+        "population": 144000000,
+        "language": "Russian",
+        "summary": {
+            "description": "Russian cuisine emphasizes soups, grains, root vegetables, fish, mushrooms, and preserved foods suited for cold climates.",
+            "dietHighlights": [
+                "Whole grains",
+                "Fish",
+                "Root vegetables",
+                "Mushrooms"
+            ]
+        },
+        "signatureFoods": [
+            "Borscht",
+            "Beef Stroganoff"
+        ],
+        "cuisineTags": [
+            "Slavic",
+            "Eastern European",
+            "Northern Eurasian"
+        ]
+    },
+    {
+        "id": "san-marino",
+        "name": "San Marino",
+        "demonym": "Sammarinese",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "heroImage": "",
+        "capital": "San Marino",
+        "region": "Southern Europe",
+        "population": 34000,
+        "language": "Italian",
+        "summary": {
+            "description": "San Marino cuisine closely resembles central Italian cuisine with fresh pasta, cheeses, meats, and seasonal vegetables.",
+            "dietHighlights": [
+                "Fresh pasta",
+                "Cheese",
+                "Vegetables",
+                "Olive oil"
+            ]
+        },
+        "signatureFoods": [
+            "Torta Tre Monti",
+            "Nidi di Rondine"
+        ],
+        "cuisineTags": [
+            "Italian",
+            "Mediterranean",
+            "Southern European"
+        ]
+    },
+    {
+        "id": "serbia",
+        "name": "Serbia",
+        "demonym": "Serbian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+        "heroImage": "",
+        "capital": "Belgrade",
+        "region": "Southern Europe",
+        "population": 6600000,
+        "language": "Serbian",
+        "summary": {
+            "description": "Serbian cuisine blends Balkan, Ottoman, and Central European influences with grilled meats, vegetables, breads, and dairy.",
+            "dietHighlights": [
+                "Grilled meats",
+                "Fresh vegetables",
+                "Dairy",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Ćevapi",
+            "Karađorđeva Šnicla"
+        ],
+        "cuisineTags": [
+            "Balkan",
+            "Slavic",
+            "Ottoman Influence"
+        ]
+    },
+    {
+        "id": "slovakia",
+        "name": "Slovakia",
+        "demonym": "Slovak",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+        "heroImage": "",
+        "capital": "Bratislava",
+        "region": "Central Europe",
+        "population": 5400000,
+        "language": "Slovak",
+        "summary": {
+            "description": "Slovak cuisine features potatoes, cheeses, cabbage, mushrooms, and hearty mountain dishes.",
+            "dietHighlights": [
+                "Potatoes",
+                "Cheese",
+                "Mushrooms",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Bryndzové Halušky",
+            "Kapustnica"
+        ],
+        "cuisineTags": [
+            "Central European",
+            "Slavic",
+            "Carpathian"
+        ]
+    },
+    {
+        "id": "slovenia",
+        "name": "Slovenia",
+        "demonym": "Slovene",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+        "heroImage": "",
+        "capital": "Ljubljana",
+        "region": "Central Europe",
+        "population": 2120000,
+        "language": "Slovene",
+        "summary": {
+            "description": "Slovenian cuisine combines Alpine, Mediterranean, and Balkan traditions using seasonal ingredients and fresh produce.",
+            "dietHighlights": [
+                "Fresh vegetables",
+                "Whole grains",
+                "Cheese",
+                "Seafood"
+            ]
+        },
+        "signatureFoods": [
+            "Kranjska Klobasa",
+            "Potica"
+        ],
+        "cuisineTags": [
+            "Alpine",
+            "Balkan",
+            "Mediterranean"
+        ]
+    },
+    {
+        "id": "spain",
+        "name": "Spain",
+        "demonym": "Spanish",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "heroImage": "",
+        "capital": "Madrid",
+        "region": "Southern Europe",
+        "population": 49000000,
+        "language": "Spanish",
+        "summary": {
+            "description": "Spanish cuisine is built around olive oil, seafood, legumes, vegetables, and regional Mediterranean traditions.",
+            "dietHighlights": [
+                "Olive oil",
+                "Seafood",
+                "Legumes",
+                "Fresh vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Paella",
+            "Gazpacho"
+        ],
+        "cuisineTags": [
+            "Mediterranean",
+            "Iberian",
+            "Southern European"
+        ]
+    },
+    {
+        "id": "sweden",
+        "name": "Sweden",
+        "demonym": "Swedish",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+        "heroImage": "",
+        "capital": "Stockholm",
+        "region": "Northern Europe",
+        "population": 10600000,
+        "language": "Swedish",
+        "summary": {
+            "description": "Swedish cuisine emphasizes seafood, berries, whole grains, root vegetables, and seasonal ingredients.",
+            "dietHighlights": [
+                "Fish",
+                "Whole grains",
+                "Berries",
+                "Root vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Swedish Meatballs",
+            "Gravlax"
+        ],
+        "cuisineTags": [
+            "Nordic",
+            "Scandinavian",
+            "Northern European"
+        ]
+    },
+    {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "demonym": "Swiss",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+    "heroImage": "",
+    "capital": "Bern",
+    "region": "Central Europe",
+    "population": 9000000,
+    "language": "German, French, Italian, Romansh",
+    "summary": {
+        "description": "Swiss cuisine combines Alpine traditions with French, German, and Italian influences, emphasizing dairy, potatoes, and seasonal ingredients.",
+        "dietHighlights": [
+            "Dairy",
+            "Whole grains",
+            "Potatoes",
+            "Fresh vegetables"
+        ]
+    },
+    "signatureFoods": [
+        "Fondue",
+        "Rösti"
+    ],
+    "cuisineTags": [
+        "Alpine",
+        "Central European",
+        "Germanic"
+    ]
+    },
+    {
+        "id": "ukraine",
+        "name": "Ukraine",
+        "demonym": "Ukrainian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "heroImage": "",
+        "capital": "Kyiv",
+        "region": "Eastern Europe",
+        "population": 36700000,
+        "language": "Ukrainian",
+        "summary": {
+            "description": "Ukrainian cuisine features hearty soups, grains, vegetables, mushrooms, and traditional family recipes.",
+            "dietHighlights": [
+                "Whole grains",
+                "Root vegetables",
+                "Mushrooms",
+                "Legumes"
+            ]
+        },
+        "signatureFoods": [
+            "Borscht",
+            "Varenyky"
+        ],
+        "cuisineTags": [
+            "Slavic",
+            "Eastern European",
+            "Rustic"
+        ]
+    },
+    {
+        "id": "united-kingdom",
+        "name": "United Kingdom",
+        "demonym": "British",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "heroImage": "",
+        "capital": "London",
+        "region": "Northern Europe",
+        "population": 69500000,
+        "language": "English",
+        "summary": {
+            "description": "British cuisine ranges from traditional comfort foods to modern multicultural dishes, with seafood, meats, vegetables, and baked goods.",
+            "dietHighlights": [
+                "Seafood",
+                "Root vegetables",
+                "Whole grains",
+                "Lean meats"
+            ]
+        },
+        "signatureFoods": [
+            "Fish and Chips",
+            "Roast Beef"
+        ],
+        "cuisineTags": [
+            "British Isles",
+            "Northern European",
+            "Celtic"
+        ]
+    },
+    {
+        "id": "vatican-city",
+        "name": "Vatican City",
+        "demonym": "Vatican",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
+        "heroImage": "",
+        "capital": "Vatican City",
+        "region": "Southern Europe",
+        "population": 764,
+        "language": "Italian, Latin",
+        "summary": {
+            "description": "Vatican cuisine closely reflects traditional Roman and Italian culinary traditions centered around fresh ingredients and Mediterranean flavors.",
+            "dietHighlights": [
+                "Olive oil",
+                "Vegetables",
+                "Fresh herbs",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Cacio e Pepe",
+            "Pasta alla Carbonara"
+        ],
+        "cuisineTags": [
+            "Italian",
+            "Mediterranean",
+            "Southern European"
+        ]
+    }
+]

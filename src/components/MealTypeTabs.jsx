@@ -1,5 +1,5 @@
 export default function MealTypeTab({ mealType, onChange }) {
-    const types = ["All","Breakfast", "Lunch", "Dinner"];
+    const types = ["All","Breakfast", "Lunch", "Dinner", "Snack", "Dessert", "Drinks"];
 
     return (
         <div className="meal-type-tab">

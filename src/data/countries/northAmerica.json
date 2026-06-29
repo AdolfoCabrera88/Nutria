@@ -1,0 +1,14 @@
+[
+    {
+        "id": "antigua-and-barbuda",
+        "name": "Antigua and Barbuda",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "continent": "North America"
+    },
+    {
+        "id": "bahamas",
+        "name": "Bahamas",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "continent": "North America"
+    }
+]

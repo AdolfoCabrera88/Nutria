@@ -1,0 +1,1104 @@
+[
+    {
+    "id": "armenia",
+    "name": "Armenia",
+    "demonym": "Armenian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+    "heroImage": "",
+    "capital": "Yerevan",
+    "region": "West Asia",
+    "population": 2800000,
+    "language": "Armenian",
+    "summary": {
+        "description": "Armenian cuisine emphasizes grilled meats, fresh herbs, vegetables, legumes, and centuries-old bread-making traditions.",
+        "dietHighlights": [
+            "Fresh herbs",
+            "Legumes",
+            "Grilled meats",
+            "Whole grains"
+        ]
+    },
+    "signatureFoods": [
+        "Khorovats",
+        "Lavash"
+    ],
+    "cuisineTags": [
+        "Caucasian",
+        "Middle Eastern",
+        "West Asian"
+    ]
+    },
+    {
+        "id": "azerbaijan",
+        "name": "Azerbaijan",
+        "demonym": "Azerbaijani",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+        "heroImage": "",
+        "capital": "Baku",
+        "region": "West Asia",
+        "population": 10200000,
+        "language": "Azerbaijani",
+        "summary": {
+            "description": "Azerbaijani cuisine blends Turkic, Persian, and Caucasian traditions with rice, lamb, vegetables, and herbs.",
+            "dietHighlights": [
+                "Rice",
+                "Fresh herbs",
+                "Vegetables",
+                "Lamb"
+            ]
+        },
+        "signatureFoods": [
+            "Plov",
+            "Dolma"
+        ],
+        "cuisineTags": [
+            "Caucasian",
+            "Turkic",
+            "West Asian"
+        ]
+    },
+    {
+        "id": "bahrain",
+        "name": "Bahrain",
+        "demonym": "Bahraini",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+        "heroImage": "",
+        "capital": "Manama",
+        "region": "Middle East",
+        "population": 1600000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Bahraini cuisine reflects Gulf traditions with seafood, rice, dates, and aromatic spices.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Dates",
+                "Legumes"
+            ]
+        },
+        "signatureFoods": [
+            "Machboos",
+            "Muhammar"
+        ],
+        "cuisineTags": [
+            "Middle Eastern",
+            "Arabian Gulf",
+            "West Asian"
+        ]
+    },
+    {
+        "id": "bangladesh",
+        "name": "Bangladesh",
+        "demonym": "Bangladeshi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+        "heroImage": "",
+        "capital": "Dhaka",
+        "region": "South Asia",
+        "population": 175000000,
+        "language": "Bengali",
+        "summary": {
+            "description": "Bangladeshi cuisine features rice, fish, lentils, vegetables, and fragrant curries.",
+            "dietHighlights": [
+                "Rice",
+                "Fish",
+                "Lentils",
+                "Vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Hilsa Curry",
+            "Bhuna Khichuri"
+        ],
+        "cuisineTags": [
+            "South Asian",
+            "Bengali",
+            "Indian Subcontinent"
+        ]
+    },
+    {
+        "id": "bhutan",
+        "name": "Bhutan",
+        "demonym": "Bhutanese",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+        "heroImage": "",
+        "capital": "Thimphu",
+        "region": "South Asia",
+        "population": 790000,
+        "language": "Dzongkha",
+        "summary": {
+            "description": "Bhutanese cuisine is known for spicy chilies, cheese, buckwheat, and red rice.",
+            "dietHighlights": [
+                "Red rice",
+                "Vegetables",
+                "Cheese",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Ema Datshi",
+            "Jasha Maroo"
+        ],
+        "cuisineTags": [
+            "Himalayan",
+            "South Asian",
+            "Buddhist Cuisine"
+        ]
+    },
+    {
+        "id": "brunei",
+        "name": "Brunei",
+        "demonym": "Bruneian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+        "heroImage": "",
+        "capital": "Bandar Seri Begawan",
+        "region": "Southeast Asia",
+        "population": 470000,
+        "language": "Malay",
+        "summary": {
+            "description": "Bruneian cuisine is influenced by Malay, Chinese, and Indian traditions with seafood, rice, and tropical ingredients.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Vegetables",
+                "Tropical fruits"
+            ]
+        },
+        "signatureFoods": [
+            "Ambuyat",
+            "Nasi Katok"
+        ],
+        "cuisineTags": [
+            "Malay",
+            "Southeast Asian",
+            "Halal"
+        ]
+    },
+    {
+    "id": "cambodia",
+    "name": "Cambodia",
+    "demonym": "Cambodian",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+    "heroImage": "",
+    "capital": "Phnom Penh",
+    "region": "Southeast Asia",
+    "population": 17100000,
+    "language": "Khmer",
+    "summary": {
+        "description": "Cambodian cuisine emphasizes rice, freshwater fish, tropical fruits, herbs, and lightly spiced dishes.",
+        "dietHighlights": [
+            "Rice",
+            "Freshwater fish",
+            "Fresh herbs",
+            "Tropical fruits"
+        ]
+    },
+    "signatureFoods": [
+        "Fish Amok",
+        "Kuy Teav"
+    ],
+    "cuisineTags": [
+        "Southeast Asian",
+        "Khmer",
+        "Rice-Based"
+    ]
+    },
+    {
+        "id": "china",
+        "name": "China",
+        "demonym": "Chinese",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_the_People%27s_Republic_of_China.svg",
+        "heroImage": "",
+        "capital": "Beijing",
+        "region": "East Asia",
+        "population": 1408000000,
+        "language": "Mandarin Chinese",
+        "summary": {
+            "description": "Chinese cuisine is one of the world's most diverse culinary traditions, emphasizing vegetables, rice, noodles, seafood, soy products, and regional specialties.",
+            "dietHighlights": [
+                "Vegetables",
+                "Rice",
+                "Soy products",
+                "Seafood"
+            ]
+        },
+        "signatureFoods": [
+            "Peking Duck",
+            "Mapo Tofu"
+        ],
+        "cuisineTags": [
+            "East Asian",
+            "Chinese",
+            "Regional Cuisine"
+        ]
+    },
+    {
+        "id": "georgia",
+        "name": "Georgia",
+        "demonym": "Georgian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+        "heroImage": "",
+        "capital": "Tbilisi",
+        "region": "West Asia",
+        "population": 3700000,
+        "language": "Georgian",
+        "summary": {
+            "description": "Georgian cuisine is famous for cheese-filled breads, grilled meats, walnuts, herbs, and hearty mountain dishes.",
+            "dietHighlights": [
+                "Fresh herbs",
+                "Walnuts",
+                "Cheese",
+                "Grilled meats"
+            ]
+        },
+        "signatureFoods": [
+            "Khachapuri",
+            "Khinkali"
+        ],
+        "cuisineTags": [
+            "Caucasian",
+            "West Asian",
+            "Mountain Cuisine"
+        ]
+    },
+    {
+        "id": "india",
+        "name": "India",
+        "demonym": "Indian",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+        "heroImage": "",
+        "capital": "New Delhi",
+        "region": "South Asia",
+        "population": 1438000000,
+        "language": "Hindi, English",
+        "summary": {
+            "description": "Indian cuisine varies widely by region but commonly features legumes, vegetables, rice, whole grains, spices, and dairy.",
+            "dietHighlights": [
+                "Legumes",
+                "Vegetables",
+                "Whole grains",
+                "Spices"
+            ]
+        },
+        "signatureFoods": [
+            "Butter Chicken",
+            "Biryani"
+        ],
+        "cuisineTags": [
+            "South Asian",
+            "Indian",
+            "Indian Subcontinent"
+        ]
+    },
+    {
+        "id": "indonesia",
+        "name": "Indonesia",
+        "demonym": "Indonesian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+        "heroImage": "",
+        "capital": "Jakarta",
+        "region": "Southeast Asia",
+        "population": 285000000,
+        "language": "Indonesian",
+        "summary": {
+            "description": "Indonesian cuisine blends rice, seafood, tropical spices, vegetables, and coconut into highly diverse regional dishes.",
+            "dietHighlights": [
+                "Rice",
+                "Seafood",
+                "Vegetables",
+                "Coconut"
+            ]
+        },
+        "signatureFoods": [
+            "Nasi Goreng",
+            "Rendang"
+        ],
+        "cuisineTags": [
+            "Southeast Asian",
+            "Malay",
+            "Island Cuisine"
+        ]
+    },
+    {
+        "id": "iran",
+        "name": "Iran",
+        "demonym": "Iranian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+        "heroImage": "",
+        "capital": "Tehran",
+        "region": "Middle East",
+        "population": 92000000,
+        "language": "Persian",
+        "summary": {
+            "description": "Iranian cuisine is known for aromatic herbs, saffron, rice, legumes, grilled meats, and balanced flavors.",
+            "dietHighlights": [
+                "Rice",
+                "Fresh herbs",
+                "Legumes",
+                "Lean meats"
+            ]
+        },
+        "signatureFoods": [
+            "Ghormeh Sabzi",
+            "Chelow Kebab"
+        ],
+        "cuisineTags": [
+            "Persian",
+            "Middle Eastern",
+            "West Asian"
+        ]
+    },
+    {
+        "id": "iraq",
+        "name": "Iraq",
+        "demonym": "Iraqi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+        "heroImage": "",
+        "capital": "Baghdad",
+        "region": "Middle East",
+        "population": 47000000,
+        "language": "Arabic, Kurdish",
+        "summary": {
+            "description": "Iraqi cuisine features rice, lamb, legumes, vegetables, and centuries of Mesopotamian culinary traditions.",
+            "dietHighlights": [
+                "Rice",
+                "Legumes",
+                "Vegetables",
+                "Lamb"
+            ]
+        },
+        "signatureFoods": [
+            "Masgouf",
+            "Dolma"
+        ],
+        "cuisineTags": [
+            "Middle Eastern",
+            "Mesopotamian",
+            "West Asian"
+        ]
+    },
+    {
+        "id": "israel",
+        "name": "Israel",
+        "demonym": "Israeli",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+        "heroImage": "",
+        "capital": "Jerusalem",
+        "region": "Middle East",
+        "population": 10100000,
+        "language": "Hebrew, Arabic",
+        "summary": {
+            "description": "Israeli cuisine combines Mediterranean, Middle Eastern, and Jewish culinary traditions using fresh vegetables, legumes, olive oil, and seafood.",
+            "dietHighlights": [
+                "Vegetables",
+                "Legumes",
+                "Olive oil",
+                "Seafood"
+            ]
+        },
+        "signatureFoods": [
+            "Falafel",
+            "Shakshuka"
+        ],
+        "cuisineTags": [
+            "Mediterranean",
+            "Middle Eastern",
+            "Levantine"
+        ]
+    },
+    {
+        "id": "japan",
+        "name": "Japan",
+        "demonym": "Japanese",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+        "heroImage": "",
+        "capital": "Tokyo",
+        "region": "East Asia",
+        "population": 123000000,
+        "language": "Japanese",
+        "summary": {
+            "description": "Japanese cuisine focuses on seafood, rice, vegetables, soy products, and seasonal ingredients prepared with simplicity.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Soy products",
+                "Vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Sushi",
+            "Ramen"
+        ],
+        "cuisineTags": [
+            "East Asian",
+            "Japanese",
+            "Island Cuisine"
+        ]
+    },
+    {
+        "id": "jordan",
+        "name": "Jordan",
+        "demonym": "Jordanian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+        "heroImage": "",
+        "capital": "Amman",
+        "region": "Middle East",
+        "population": 11700000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Jordanian cuisine features lamb, rice, yogurt, legumes, olive oil, and Levantine flavors.",
+            "dietHighlights": [
+                "Rice",
+                "Lamb",
+                "Legumes",
+                "Olive oil"
+            ]
+        },
+        "signatureFoods": [
+            "Mansaf",
+            "Maqluba"
+        ],
+        "cuisineTags": [
+            "Levantine",
+            "Middle Eastern",
+            "West Asian"
+        ]
+    },
+    {
+    "id": "kazakhstan",
+    "name": "Kazakhstan",
+    "demonym": "Kazakh",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+    "heroImage": "",
+    "capital": "Astana",
+    "region": "Central Asia",
+    "population": 20000000,
+    "language": "Kazakh, Russian",
+    "summary": {
+        "description": "Kazakh cuisine is built around nomadic traditions featuring meat, dairy, grains, and fermented foods.",
+        "dietHighlights": [
+            "Lean meats",
+            "Dairy",
+            "Whole grains",
+            "Fermented foods"
+        ]
+    },
+    "signatureFoods": [
+        "Beshbarmak",
+        "Kazy"
+    ],
+    "cuisineTags": [
+        "Central Asian",
+        "Nomadic",
+        "Turkic"
+    ]
+    },
+    {
+        "id": "kuwait",
+        "name": "Kuwait",
+        "demonym": "Kuwaiti",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+        "heroImage": "",
+        "capital": "Kuwait City",
+        "region": "Middle East",
+        "population": 4300000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Kuwaiti cuisine combines Gulf seafood traditions with rice, spices, dates, and grilled meats.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Dates",
+                "Legumes"
+            ]
+        },
+        "signatureFoods": [
+            "Machboos",
+            "Mutabbaq Samak"
+        ],
+        "cuisineTags": [
+            "Middle Eastern",
+            "Arabian Gulf",
+            "West Asian"
+        ]
+    },
+    {
+        "id": "kyrgyzstan",
+        "name": "Kyrgyzstan",
+        "demonym": "Kyrgyz",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+        "heroImage": "",
+        "capital": "Bishkek",
+        "region": "Central Asia",
+        "population": 7200000,
+        "language": "Kyrgyz, Russian",
+        "summary": {
+            "description": "Kyrgyz cuisine reflects nomadic traditions emphasizing meat, dairy, bread, and hearty stews.",
+            "dietHighlights": [
+                "Lean meats",
+                "Dairy",
+                "Whole grains",
+                "Fermented foods"
+            ]
+        },
+        "signatureFoods": [
+            "Beshbarmak",
+            "Laghman"
+        ],
+        "cuisineTags": [
+            "Central Asian",
+            "Nomadic",
+            "Turkic"
+        ]
+    },
+    {
+        "id": "laos",
+        "name": "Laos",
+        "demonym": "Lao",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+        "heroImage": "",
+        "capital": "Vientiane",
+        "region": "Southeast Asia",
+        "population": 7700000,
+        "language": "Lao",
+        "summary": {
+            "description": "Lao cuisine highlights sticky rice, herbs, grilled meats, fresh vegetables, and spicy flavors.",
+            "dietHighlights": [
+                "Sticky rice",
+                "Fresh herbs",
+                "Vegetables",
+                "Lean meats"
+            ]
+        },
+        "signatureFoods": [
+            "Laap",
+            "Tam Mak Hoong"
+        ],
+        "cuisineTags": [
+            "Southeast Asian",
+            "Lao",
+            "Mekong"
+        ]
+    },
+    {
+        "id": "lebanon",
+        "name": "Lebanon",
+        "demonym": "Lebanese",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+        "heroImage": "",
+        "capital": "Beirut",
+        "region": "Middle East",
+        "population": 5600000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Lebanese cuisine is renowned for fresh vegetables, legumes, olive oil, herbs, and grilled meats.",
+            "dietHighlights": [
+                "Vegetables",
+                "Legumes",
+                "Olive oil",
+                "Fresh herbs"
+            ]
+        },
+        "signatureFoods": [
+            "Tabbouleh",
+            "Kibbeh"
+        ],
+        "cuisineTags": [
+            "Levantine",
+            "Mediterranean",
+            "Middle Eastern"
+        ]
+    },
+    {
+        "id": "malaysia",
+        "name": "Malaysia",
+        "demonym": "Malaysian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+        "heroImage": "",
+        "capital": "Kuala Lumpur",
+        "region": "Southeast Asia",
+        "population": 35000000,
+        "language": "Malay",
+        "summary": {
+            "description": "Malaysian cuisine combines Malay, Chinese, and Indian traditions with rice, seafood, spices, and tropical ingredients.",
+            "dietHighlights": [
+                "Rice",
+                "Seafood",
+                "Vegetables",
+                "Tropical fruits"
+            ]
+        },
+        "signatureFoods": [
+            "Nasi Lemak",
+            "Laksa"
+        ],
+        "cuisineTags": [
+            "Malay",
+            "Southeast Asian",
+            "Multicultural"
+        ]
+    },
+    {
+        "id": "maldives",
+        "name": "Maldives",
+        "demonym": "Maldivian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+        "heroImage": "",
+        "capital": "Malé",
+        "region": "South Asia",
+        "population": 530000,
+        "language": "Dhivehi",
+        "summary": {
+            "description": "Maldivian cuisine centers around tuna, coconut, rice, and tropical island ingredients.",
+            "dietHighlights": [
+                "Seafood",
+                "Coconut",
+                "Rice",
+                "Fresh fish"
+            ]
+        },
+        "signatureFoods": [
+            "Garudhiya",
+            "Mas Huni"
+        ],
+        "cuisineTags": [
+            "Island Cuisine",
+            "South Asian",
+            "Indian Ocean"
+        ]
+    },
+    {
+        "id": "mongolia",
+        "name": "Mongolia",
+        "demonym": "Mongolian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+        "heroImage": "",
+        "capital": "Ulaanbaatar",
+        "region": "East Asia",
+        "population": 3500000,
+        "language": "Mongolian",
+        "summary": {
+            "description": "Mongolian cuisine reflects nomadic life with meat, dairy, flour, and simple hearty dishes.",
+            "dietHighlights": [
+                "Lean meats",
+                "Dairy",
+                "Whole grains",
+                "Fermented dairy"
+            ]
+        },
+        "signatureFoods": [
+            "Buuz",
+            "Khorkhog"
+        ],
+        "cuisineTags": [
+            "Central Asian",
+            "Nomadic",
+            "Mongolian"
+        ]
+    },
+    {
+        "id": "myanmar",
+        "name": "Myanmar",
+        "demonym": "Burmese",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+        "heroImage": "",
+        "capital": "Naypyidaw",
+        "region": "Southeast Asia",
+        "population": 55000000,
+        "language": "Burmese",
+        "summary": {
+            "description": "Myanmar cuisine combines rice, fish, legumes, fermented foods, and fresh herbs.",
+            "dietHighlights": [
+                "Rice",
+                "Fish",
+                "Legumes",
+                "Fresh herbs"
+            ]
+        },
+        "signatureFoods": [
+            "Mohinga",
+            "Shan Noodles"
+        ],
+        "cuisineTags": [
+            "Southeast Asian",
+            "Burmese",
+            "Mekong"
+        ]
+    },
+    {
+        "id": "nepal",
+        "name": "Nepal",
+        "demonym": "Nepali",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+        "heroImage": "",
+        "capital": "Kathmandu",
+        "region": "South Asia",
+        "population": 31000000,
+        "language": "Nepali",
+        "summary": {
+            "description": "Nepali cuisine features lentils, rice, vegetables, spices, and Himalayan culinary traditions.",
+            "dietHighlights": [
+                "Rice",
+                "Lentils",
+                "Vegetables",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Dal Bhat",
+            "Momo"
+        ],
+        "cuisineTags": [
+            "Himalayan",
+            "South Asian",
+            "Indian Subcontinent"
+        ]
+    },
+    {
+        "id": "north-korea",
+        "name": "North Korea",
+        "demonym": "North Korean",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+        "heroImage": "",
+        "capital": "Pyongyang",
+        "region": "East Asia",
+        "population": 26200000,
+        "language": "Korean",
+        "summary": {
+            "description": "North Korean cuisine emphasizes rice, noodles, kimchi, vegetables, and preserved foods.",
+            "dietHighlights": [
+                "Rice",
+                "Vegetables",
+                "Fermented foods",
+                "Seafood"
+            ]
+        },
+        "signatureFoods": [
+            "Naengmyeon",
+            "Kimchi"
+        ],
+        "cuisineTags": [
+            "Korean",
+            "East Asian",
+            "Fermented Foods"
+        ]
+    },
+    {
+        "id": "oman",
+        "name": "Oman",
+        "demonym": "Omani",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+        "heroImage": "",
+        "capital": "Muscat",
+        "region": "Middle East",
+        "population": 4700000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Omani cuisine blends Arabian, Persian, Indian, and East African influences with seafood, rice, and spices.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Dates",
+                "Legumes"
+            ]
+        },
+        "signatureFoods": [
+            "Shuwa",
+            "Majboos"
+        ],
+        "cuisineTags": [
+            "Arabian Gulf",
+            "Middle Eastern",
+            "West Asian"
+        ]
+    },
+    {
+    "id": "pakistan",
+    "name": "Pakistan",
+    "demonym": "Pakistani",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+    "heroImage": "",
+    "capital": "Islamabad",
+    "region": "South Asia",
+    "population": 247500000,
+    "language": "Urdu, English",
+    "summary": {
+        "description": "Pakistani cuisine is rich in spices, grilled meats, lentils, rice, and breads, with influences from Central Asia, Persia, and the Indian subcontinent.",
+        "dietHighlights": [
+            "Rice",
+            "Lentils",
+            "Grilled meats",
+            "Whole grains"
+        ]
+    },
+    "signatureFoods": [
+        "Biryani",
+        "Nihari"
+    ],
+    "cuisineTags": [
+        "South Asian",
+        "Indian Subcontinent",
+        "Halal"
+    ]
+    },
+    {
+        "id": "palestine",
+        "name": "Palestine",
+        "demonym": "Palestinian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+        "heroImage": "",
+        "capital": "Jerusalem (claimed), Ramallah (administrative)",
+        "region": "Middle East",
+        "population": 5500000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Palestinian cuisine emphasizes olive oil, legumes, vegetables, herbs, grains, and traditional Levantine dishes.",
+            "dietHighlights": [
+                "Olive oil",
+                "Legumes",
+                "Vegetables",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Musakhan",
+            "Maqluba"
+        ],
+        "cuisineTags": [
+            "Levantine",
+            "Mediterranean",
+            "Middle Eastern"
+        ]
+    },
+    {
+        "id": "philippines",
+        "name": "Philippines",
+        "demonym": "Filipino",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "heroImage": "",
+        "capital": "Manila",
+        "region": "Southeast Asia",
+        "population": 116800000,
+        "language": "Filipino, English",
+        "summary": {
+            "description": "Filipino cuisine combines indigenous, Spanish, Chinese, and American influences using rice, seafood, pork, and tropical fruits.",
+            "dietHighlights": [
+                "Rice",
+                "Seafood",
+                "Vegetables",
+                "Tropical fruits"
+            ]
+        },
+        "signatureFoods": [
+            "Adobo",
+            "Sinigang"
+        ],
+        "cuisineTags": [
+            "Southeast Asian",
+            "Island Cuisine",
+            "Filipino"
+        ]
+    },
+    {
+        "id": "qatar",
+        "name": "Qatar",
+        "demonym": "Qatari",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+        "heroImage": "",
+        "capital": "Doha",
+        "region": "Middle East",
+        "population": 2700000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Qatari cuisine is rooted in Bedouin traditions with seafood, rice, dates, and aromatic spices.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Dates",
+                "Legumes"
+            ]
+        },
+        "signatureFoods": [
+            "Machboos",
+            "Thareed"
+        ],
+        "cuisineTags": [
+            "Arabian Gulf",
+            "Middle Eastern",
+            "West Asian"
+        ]
+    },
+    {
+        "id": "saudi-arabia",
+        "name": "Saudi Arabia",
+        "demonym": "Saudi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "heroImage": "",
+        "capital": "Riyadh",
+        "region": "Middle East",
+        "population": 33800000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Saudi cuisine features rice, lamb, dates, dairy, and traditional Arabian spices.",
+            "dietHighlights": [
+                "Rice",
+                "Dates",
+                "Lamb",
+                "Legumes"
+            ]
+        },
+        "signatureFoods": [
+            "Kabsa",
+            "Jareesh"
+        ],
+        "cuisineTags": [
+            "Arabian",
+            "Middle Eastern",
+            "Bedouin"
+        ]
+    },
+    {
+        "id": "singapore",
+        "name": "Singapore",
+        "demonym": "Singaporean",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+        "heroImage": "",
+        "capital": "Singapore",
+        "region": "Southeast Asia",
+        "population": 6100000,
+        "language": "English, Malay, Mandarin, Tamil",
+        "summary": {
+            "description": "Singaporean cuisine is one of the world's most diverse, blending Chinese, Malay, Indian, and Peranakan culinary traditions.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Vegetables",
+                "Noodles"
+            ]
+        },
+        "signatureFoods": [
+            "Hainanese Chicken Rice",
+            "Laksa"
+        ],
+        "cuisineTags": [
+            "Southeast Asian",
+            "Multicultural",
+            "Peranakan"
+        ]
+    },
+    {
+        "id": "south-korea",
+        "name": "South Korea",
+        "demonym": "South Korean",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "heroImage": "",
+        "capital": "Seoul",
+        "region": "East Asia",
+        "population": 51700000,
+        "language": "Korean",
+        "summary": {
+            "description": "South Korean cuisine emphasizes fermented foods, vegetables, seafood, rice, and balanced side dishes.",
+            "dietHighlights": [
+                "Vegetables",
+                "Rice",
+                "Fermented foods",
+                "Seafood"
+            ]
+        },
+        "signatureFoods": [
+            "Bibimbap",
+            "Kimchi"
+        ],
+        "cuisineTags": [
+            "East Asian",
+            "Korean",
+            "Fermented Foods"
+        ]
+    },
+    {
+        "id": "sri-lanka",
+        "name": "Sri Lanka",
+        "demonym": "Sri Lankan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "heroImage": "",
+        "capital": "Sri Jayawardenepura Kotte",
+        "region": "South Asia",
+        "population": 22000000,
+        "language": "Sinhala, Tamil",
+        "summary": {
+            "description": "Sri Lankan cuisine features coconut, rice, seafood, spices, and tropical produce.",
+            "dietHighlights": [
+                "Rice",
+                "Coconut",
+                "Seafood",
+                "Vegetables"
+            ]
+        },
+        "signatureFoods": [
+            "Kottu Roti",
+            "Rice and Curry"
+        ],
+        "cuisineTags": [
+            "South Asian",
+            "Indian Ocean",
+            "Tropical"
+        ]
+    },
+    {
+        "id": "syria",
+        "name": "Syria",
+        "demonym": "Syrian",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+        "heroImage": "",
+        "capital": "Damascus",
+        "region": "Middle East",
+        "population": 24000000,
+        "language": "Arabic",
+        "summary": {
+            "description": "Syrian cuisine blends Levantine traditions with fresh vegetables, grains, legumes, herbs, and olive oil.",
+            "dietHighlights": [
+                "Olive oil",
+                "Vegetables",
+                "Legumes",
+                "Whole grains"
+            ]
+        },
+        "signatureFoods": [
+            "Kibbeh",
+            "Fattoush"
+        ],
+        "cuisineTags": [
+            "Levantine",
+            "Middle Eastern",
+            "Mediterranean"
+        ]
+    },
+    {
+        "id": "taiwan",
+        "name": "Taiwan",
+        "demonym": "Taiwanese",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+        "heroImage": "",
+        "capital": "Taipei",
+        "region": "East Asia",
+        "population": 23500000,
+        "language": "Mandarin Chinese",
+        "summary": {
+            "description": "Taiwanese cuisine is famous for seafood, noodles, rice, vegetables, tea culture, and vibrant night market foods.",
+            "dietHighlights": [
+                "Seafood",
+                "Rice",
+                "Vegetables",
+                "Soy products"
+            ]
+        },
+        "signatureFoods": [
+            "Beef Noodle Soup",
+            "Xiao Long Bao"
+        ],
+        "cuisineTags": [
+            "East Asian",
+            "Chinese",
+            "Island Cuisine"
+        ]
+    }
+]
