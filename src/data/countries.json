@@ -2,7 +2,8 @@
     {
         "id": "afghanistan",
         "name": "Afghanistan",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Afghanistan.svg"
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Afghanistan.svg",
+        "continent": "Eruope"
     },
     {
         "id": "albania",

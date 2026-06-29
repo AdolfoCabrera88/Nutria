@@ -4,13 +4,19 @@
         "name": "Gallo Pinto with Eggs",
         "image": "https://www.panningtheglobe.com/wp-content/uploads/2016/05/gallo-pinto-costa-rica-square.jpg",
         "countryId": "nicaragua",
+        "description": "rice and beans",
+        "difficulty": "3 stars",
+        "prepTime": "20 minutes",
+        "servings": "1",
 
         "type": "breakfast",
         "ingredients": [
             {"foodId": "rice", "grams": 150},
             {"foodId": "red-beans", "grams": 120},
             {"foodId": "eggs", "grams": 100}
-        ]
+        ],
+        "intsructions": [],
+        "tags": []
     },
     {
         "id": "nacatamales",
